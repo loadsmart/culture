@@ -21,7 +21,7 @@
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
 
-## About
+## About us
 
 <a href="https://www.loadsmart.com/">
   <img align="left" src="https://avatars1.githubusercontent.com/u/10535096?s=200&v=4"/>
