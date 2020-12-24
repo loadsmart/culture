@@ -4,8 +4,6 @@ TODO
 
 [Slides](https://docs.google.com/presentation/d/12S0OM95M1eLpmkLJmXf05TyTpNvfCU_qiYTNs4rjan8/)
 
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
-
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 | Section |  |
@@ -34,3 +32,6 @@ TODO
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
 It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing.
+
+
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
