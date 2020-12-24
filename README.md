@@ -6,7 +6,18 @@
 <!-- start_toc -->
 | Section |  |
 |--|--|
+| [[TODO] Add a summary.json to architecture](/architecture) | [TODO] |
+| [[TODO] Add a summary.json to bug-fixes](/bug-fixes) | [TODO] |
+| [[TODO] Add a summary.json to coding](/coding) | [TODO] |
+| [[TODO] Add a summary.json to data-science](/data-science) | [TODO] |
 | [Hiring at Loadsmart](/hiring#readme) | Outline of each step of our hiring process |
+| [[TODO] Add a summary.json to meetings](/meetings) | [TODO] |
+| [[TODO] Add a summary.json to product-development](/product-development) | [TODO] |
+| [[TODO] Add a summary.json to releasing](/releasing) | [TODO] |
+| [[TODO] Add a summary.json to tech-debts](/tech-debts) | [TODO] |
+| [[TODO] Add a summary.json to tech-lead](/tech-lead) | [TODO] |
+| [[TODO] Add a summary.json to technology](/technology) | [TODO] |
+| [[TODO] Add a summary.json to values](/values) | [TODO] |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
 
