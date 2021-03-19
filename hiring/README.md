@@ -7,5 +7,6 @@ Outline of each step of our hiring process
 | Doc | Overview |
 |--|--|
 | [Interviewing at Loadsmart](/hiring/interviewing.md#readme) | Our process to hire engineers |
+| [Referring a candidate](/hiring/referrals.md#readme) | The process of referring someone to our Engineering team |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
