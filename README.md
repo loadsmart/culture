@@ -12,14 +12,14 @@ TODO
 | [Bug fixes](/bug-fixes#readme) | From reporting to solving |
 | [Career at Loadsmart](/careers#readme) | Our ladder and opportunities of growth |
 | [Chapters](/chapters#readme) | Back End, Front End, Mobile, Data Science, etc |
-| [[TODO] Add a summary.json to coding](/coding) | [TODO] |
+| [Coding](/coding#readme) | Good practices to take into considerations |
 | [Hiring at Loadsmart](/hiring#readme) | Outline of each step of our hiring process |
 | [Meetings](/meetings#readme) | Our policy for scheduling, preparing, and attending meetings |
 | [Onboarding](/onboarding#readme) | Your first weeks at Loadsmart |
 | [Product Development](/product-development#readme) | The process and how we deliver things |
 | [Releasing](/releasing#readme) | Best practices for putting code in Production |
 | [Tech Debts](/tech-debts#readme) | How and when they are bought and paid |
-| [](/technology#readme) |  |
+| [Technology](/technology#readme) | Our stack and tech radar |
 | [Values](/values#readme) | The 5 values of Loadsmart's Engineering Team |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
