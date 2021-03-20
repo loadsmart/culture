@@ -1,4 +1,6 @@
-### [TODO]
+### Guidelines for Architecture Design
+
+How decisions are made when thinking about architecture
 
 <!-- prettier-ignore-start -->
 <!-- start_toc -->

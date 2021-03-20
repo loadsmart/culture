@@ -8,18 +8,19 @@ TODO
 <!-- start_toc -->
 | Section |  |
 |--|--|
-| [[TODO] Add a summary.json to architecture](/architecture) | [TODO] |
-| [[TODO] Add a summary.json to bug-fixes](/bug-fixes) | [TODO] |
-| [[TODO] Add a summary.json to careers](/careers) | [TODO] |
-| [[TODO] Add a summary.json to chapters](/chapters) | [TODO] |
+| [Guidelines for Architecture Design](/architecture#readme) | How decisions are made when thinking about architecture |
+| [Bug fixes](/bug-fixes#readme) | From reporting to solving |
+| [Career at Loadsmart](/careers#readme) | Our ladder and opportunities of growth |
+| [Chapters](/chapters#readme) | Back End, Front End, Mobile, Data Science, etc |
 | [[TODO] Add a summary.json to coding](/coding) | [TODO] |
 | [Hiring at Loadsmart](/hiring#readme) | Outline of each step of our hiring process |
-| [[TODO] Add a summary.json to meetings](/meetings) | [TODO] |
-| [[TODO] Add a summary.json to product-development](/product-development) | [TODO] |
-| [[TODO] Add a summary.json to releasing](/releasing) | [TODO] |
-| [[TODO] Add a summary.json to tech-debts](/tech-debts) | [TODO] |
-| [[TODO] Add a summary.json to technology](/technology) | [TODO] |
-| [[TODO] Add a summary.json to values](/values) | [TODO] |
+| [Meetings](/meetings#readme) | Our policy for scheduling, preparing, and attending meetings |
+| [Onboarding](/onboarding#readme) | Your first weeks at Loadsmart |
+| [Product Development](/product-development#readme) | The process and how we deliver things |
+| [Releasing](/releasing#readme) | Best practices for putting code in Production |
+| [Tech Debts](/tech-debts#readme) | How and when they are bought and paid |
+| [](/technology#readme) |  |
+| [Values](/values#readme) | The 5 values of Loadsmart's Engineering Team |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
 
