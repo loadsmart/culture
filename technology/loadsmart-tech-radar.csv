@@ -1,2 +1,5 @@
 name,ring,quadrant,isNew,description
+Javascript,adopt,languages & frameworks,FALSE,"Front end only. Javascript on the back end should not be used anymore"
+Python,adopt,languages & frameworks,FALSE,
+Swift,hold,languages & frameworks,FALSE,
 Terraform,adopt,tools,FALSE,
