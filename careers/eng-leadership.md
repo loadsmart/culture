@@ -12,6 +12,8 @@ Tech Lead is not a formal position on neither the Technical nor the Management t
 
 Because of the fact this role gives individual contributors the opportunity of possibly having their first experience with leadership, many engineers may find themselves still in the process of discovering what type of leadership their career is pointing towards to: pure technical or management. If agreed with Engineering Manager, Tech Leads may have other engineers reporting to them. It is recommended that a Tech Lead does not have more than 4 direct reports, unless being a Manager is their end goal.
 
+Tech Leads also own the technical queue, meaning that they are the ones pulling tech debts, chores, infrastructure tasks, etc. to the current sprint.
+
 ## Project Lead
 
 A Project Lead is an individual contributor of any level that is responsible - from beginning to end - for a given project of their team. They lead the breakdown of user stories during planning sessions, provide status updates during daily meetings or checkpoints, are the internal and external point of contact of the team for any subject related to their project, and are responsible for guaranteeing the deployment and technical success of it. It is also expected that documentation efforts for the given project are also led by the Project Lead.
