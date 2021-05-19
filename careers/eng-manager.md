@@ -1,5 +1,9 @@
 # Engineering Manager
 
+Engineering Managers are responsible for organizing the team, process, and ensuring people are happy, productive, and growing. However, this is not a pure people management role. Regardless of their technical background (backend, frontend, data science, etc), Engineering Managers should feel comfortable discussing high level architecture of systems (HTTP, API, databases, message brokers, cache, etc), providing inputs based on their experience and guiding the team to achieve the best outcome in discussions.
+
+For a descriptive - and non-exhaustive - list of tasks performed by an Engineering Manager, check the sections below.
+
 ## Hiring
 
 - Write master docs for open positions in your team
@@ -21,14 +25,14 @@
 - Act to resolve conflicts in the team that could not be resolved by the team members themselves
 - Rethink team structure if team has grown too big
 
-## Line management (TL+)
+## Line management
 
 - Approve time-off requests
 - Review compensation of team members with upper engineering management
 - Do weekly or bi-weekly 1:1 meetings in a regular basis with team members
 - Constantly provide feedbacks on team members' work, and also do it formally through quarterly check-ins
 - Work with HR on a plan when disciplinary and/or performance issues may occur
-- Work with ICs on their promotion packages in case you agree with sponsoring them
+- Work with ICs on their promotion packet in case you agree with sponsoring them
 
 ## Roadmap Planning
 
@@ -38,12 +42,12 @@
 - Be accountable for the OKRs your teams are pursuing and educate team members to also keep their eyes on them
 - Pre-align with shareholders what your teams are delivering each quarter, sharing the progress whenever something valuable is delivered
 
-## Process Execution (TL+, PL+)
+## Process Execution (shared with Tech Leads)
 
 - Have visibility of what team members are working on now (sprint) and what will they work next (prioritized backlog)
 - Be on top of any blockers that are preventing the team from delivering results, and work on unblocking them
 - Understand where bugs are coming from, find patterns, and work on the root causes
-- Control the growth of tech-debts by constantly and responsibly paying them
+- Control the growth of tech-debts by constantly and responsibly having the team paying them
 - Lead retrospective meetings, create a space where people are feel to speak, distribute and work on the action items
 
 ## Partnership with Product (for Product Engineering Teams)
