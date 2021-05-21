@@ -8,7 +8,7 @@ Due to the fact this role gives individual contributors the opportunity of possi
 
 Tech Leads represent their squad in Tech Lead meetings and are the default interface of their teams for cross-squad discussions.
 
-For a descriptive - and non-exhaustive - list of tasks performed by an Engineering Manager, check the sections below.
+For a descriptive - and non-exhaustive - list of tasks performed by a Tech Lead, check the sections below.
 
 ## Technical Excellence
 - Make sure the process of code reviewing is optimal, providing feedbacks on what needs to be improved and evaluating whether certain checks need to be manual or automated
