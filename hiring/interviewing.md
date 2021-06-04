@@ -5,12 +5,12 @@ description: Our process to hire engineers
 
 # Interviewing at Loadsmart
 
-1. Initial screening
+1. Initial recruiter screen
 2. Coding challenge
 3. Architectural interview
 4. Cultural fit interview
 5. Thumbs
-6. Offer
+6. Offer - _We will send the candidate an offer to become a Loadie, the candidate reviews the offer, and if the candidate accepts, we prepare the contract and align the start date._
 
 ## Important things
 
