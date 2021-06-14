@@ -5,17 +5,39 @@ description: Our process to hire engineers
 
 # Interviewing at Loadsmart
 
-1. Initial recruiter screen
-2. Coding challenge
-3. Architectural interview
-4. Cultural fit interview
-5. Thumbs
-6. Offer - _We will send the candidate an offer to become a Loadie, the candidate reviews the offer, and if the candidate accepts, we prepare the contract and align the start date._
+If you are interviewing for an engineering position at Loadsmart, the steps below outline the process we use to hire new members:
 
-## Important things
+1. [Screening interview](#screening-interview)
+2. [Coding exercise](#coding-exercise)
+3. [Systems Design interview](#systems-design-interview)
+4. [Team fit interview](#team-fit-interview)
+5. [Thumbs meeting](#thumbs-meeting)
+6. [Offer](#offer)
 
-- All steps are eliminatory
-- We shall not pass candidates that don't write tests
-- Team that will work with the person needs to participate in the process
-- When in doubt, do not hire or do more steps, like coding sessions
-- Referrals are priority
+## Screening interview
+This interview is conducted by one of the Loadsmart recruiters. The main goal is to present to candidates the company, the challenges, and a bit of our culture. The recruiter should also be answering any questions candidates may have. If they are not able to do so (maybe because it is something too technical), recruiters will reach out to Loadsmart engineers and then provide the answer back to candidates.
+
+You may use this interview to discuss the moment you find yourself at your current company, what do you expect from us, and anything that would make you comfortable before deciding on moving ahead with the process.
+
+## Coding exercise
+This may vary depending on the position you are applying to but in general it consists in a problem that is given to you to be solved. These are programming tasks that go from logical exercises, to day-to-day problem solving tasks, to framework specific questions.
+
+These are usually done via [HackerRank](https://www.hackerrank.com). However, there are positions that we have been using our own set of problems and for those you should be receiving a problem description (plain text) where the solution would be done through a private GitHub under your own account.
+
+## Systems Design interview
+After finishing the [coding exercise](#coding-exercise), the review will happen either automatically (if done via HackerRank) or manually (if done via a GitHub repo). In case of a satisfactory solution, the next step is the Systems Design Interview.
+
+If in the previous interview you had the chance to show your coding and logical-thinking abilities, in this interview you will be demonstrating a bit of your thought process when designing new systems given a problem that is described to you.
+
+## Team fit interview
+At this step, most of the technical assessments are already done. Now is the time when you are interviewing with the team you are potentially going to be working with.
+
+In this interview, you will be discussing your interests, talking about some of your soft skills, they way you like or not to do things, and so on. It is also when the team leaders will be checking if you are the best fit for their team. And if that's not the case (maybe because let's say they are looking for someone with a different set of skills), you could also be interviewing with leaders from other teams until we find the best team for you.
+
+## Thumbs meeting
+Now that all the interviews are done, everyone that participated in your hiring process will get together to discuss whether or not we are moving forward with an offer. As different people participate in different steps of the process, having all participants discussing their points of view makes sure we all have the same context and the alignment we need.
+
+## Offer
+Congrats! You have been approved! 🎉
+
+The recruiter that was in touch with you through the whole process will now call you to give you the big news. We can't wait for you to start working with us!
