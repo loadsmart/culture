@@ -19,7 +19,7 @@ For a descriptive - and non-exhaustive - list of tasks performed by an Engineeri
 ## People
 
 - Evaluate training courses, conferences, and any other form of resources to make people grow
-- Lead the efforts of helping the team gel better, while also guaranteeing individuals feel like they are part of a safe group
+- Lead the efforts of helping the team get better, while also guaranteeing individuals feel like they are part of a safe group
 - Provide opportunities for team members to grow in their careers, being available to guide them through your experiences
 - Effectively delegate tasks to ICs and/or Tech Leads - that were agreed upon - so that they can grow without being swamped
 - Act to resolve conflicts in the team that could not be resolved by the team members themselves
