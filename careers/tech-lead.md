@@ -1,3 +1,8 @@
+---
+title: The Tech Lead role
+description: The Tech Lead role at Loadsmart
+---
+
 # Tech Lead
 
 A Tech Lead is Senior individual contributor who is willing to have a broader impact by shaping the work for people on the team rather than just doing their own work. Their primary goal is to raise the technical bar of their team, by giving them direction and acting as a facilitator. They make sure the team is following Loadsmart's standards for technical quality in all possible related subjects such as automated tests, build and deploy processes, code standards, and so on. Tech Leads also own the technical queue, meaning that they are the ones pulling tech debts, chores, infrastructure tasks, etc. to the current sprint.

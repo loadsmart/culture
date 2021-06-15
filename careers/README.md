@@ -1,12 +1,13 @@
-### [TODO]
+### Career at Loadsmart
 
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 | Doc | Overview |
 |--|--|
-| [[TODO] add title via yml front-matter to careers/career-path.md](/careers/career-path.md#readme) | [TODO] add description via yml front-matter to careers/career-path.md |
-| [[TODO] add title via yml front-matter to careers/tech-lead.md](/careers/tech-lead.md#readme) | [TODO] add description via yml front-matter to careers/tech-lead.md |
+| [Loadsmart's Career Path](/careers/career-path.md#readme) | An overview of the technical and the management tracks |
+| [Engineering Leadership FAQ](/careers/eng-leadership-faq.md#readme) | Answers on common questions about the leadership roles |
+| [Engineering Manager](/careers/eng-manager.md#readme) | A day of an Engineering Manager at Loadsmart |
+| [The Project Lead role](/careers/project-lead.md#readme) | How leading projects can boost your leadership experience |
+| [The Tech Lead role](/careers/tech-lead.md#readme) | The Tech Lead role at Loadsmart |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
-
-[TODO]

@@ -1,3 +1,8 @@
+---
+title: Engineering Manager
+description: A day of an Engineering Manager at Loadsmart
+---
+
 # Engineering Manager
 
 Engineering Managers are responsible for organizing the team, process, and ensuring people are happy, productive, and growing. However, this is not a pure people management role. Regardless of their technical background (backend, frontend, data science, etc), Engineering Managers should feel comfortable discussing high level architecture of systems (HTTP, API, databases, message brokers, cache, etc), providing inputs based on their experience and guiding the team to achieve the best outcome in discussions.
