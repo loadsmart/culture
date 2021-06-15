@@ -1,3 +1,8 @@
+---
+title: The Project Lead role
+description: How leading projects can boost your leadership experience
+---
+
 # Project Lead
 
 A Project Lead is an individual contributor of any level that is responsible - from beginning to end - for a given project of their team. They lead the breakdown of user stories during planning sessions, provide status updates during daily meetings or checkpoints, are the internal and external point of contact of the team for any subject related to their project, and are responsible for guaranteeing the deployment and technical success of it. It is also expected that documentation efforts for the given project are also led by the Project Lead.
