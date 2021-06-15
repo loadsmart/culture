@@ -1,12 +1,16 @@
 ### Values
 
-The 5 values of Loadsmart's Engineering Team
+1. Technical excellence: High recruitment bar.
+2. Teamwork: Brilliant jerks not allowed.
+3. Positive attitude: Stop complaining and do something about it.
+4. Curiosity: Continuous learning environment.
+5. Freedom with responsibility environment: Very flexible on rules, but people need to be responsible and deliver results.
 
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 | Doc | Overview |
 |--|--|
-| [[TODO] add title via yml front-matter to values/values.md](/values/values.md#readme) | [TODO] add description via yml front-matter to values/values.md |
+
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
 

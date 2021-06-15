@@ -1,11 +1,15 @@
-### [TODO]
+# Onboarding
 
+Welcome to Loadsmart!
+
+- Week 1: Basic Loadsmart trainings.
+- Week 2: Basic Engineering trainings.
+- Week 3 to 6 or 8: Continuous improvements, bug fixes and small projects.
+- After that: Default engineering projects.
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 | Doc | Overview |
 |--|--|
-| [[TODO] add title via yml front-matter to onboarding/onboarding.md](/onboarding/onboarding.md#readme) | [TODO] add description via yml front-matter to onboarding/onboarding.md |
-<!-- end_toc -->
-<!-- prettier-ignore-end -->
 
-[TODO]
+<!-- end_toc -->
+<!-- prettier-ignore-end -->undefined
