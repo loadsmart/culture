@@ -1,5 +1,35 @@
 name,ring,quadrant,isNew,description
-Javascript,adopt,languages & frameworks,FALSE,"Front end only. Javascript on the back end should not be used anymore"
+Javascript (Browser),adopt,languages & frameworks,FALSE,
 Python,adopt,languages & frameworks,FALSE,
-Swift,hold,languages & frameworks,FALSE,
+Django,adopt,languages & frameworks,FALSE,"Our go-to choice when we need to balance development speed and ease of use with a decent performance"
+Postgres,adopt,tools,FALSE,
+React,adopt,languages & frameworks,FALSE,
+React Native,adopt,languages & frameworks,FALSE,
+Redis,adopt,platforms,FALSE,
+AWS,adopt,platforms,FALSE,
+Kubernetes,adopt,platforms,FALSE,
+Datadog,adopt,tools,FALSE,
 Terraform,adopt,tools,FALSE,
+Jest,adopt,languages & frameworks,FALSE
+React Testing Library,adopt,languages & frameworks,FALSE
+Cypress,adopt,tools,FALSE,
+Styled Components,adopt,tools,FALSE,
+Storybook,adopt,tools,FALSE,
+CircleCI,adopt,tools,FALSE,
+Sentry,adopt,tools,FALSE,
+Pagerduty,adopt,platforms,FALSE,
+Fastlane,adopt,tools,FALSE,
+Datadog Synthetics,adopt,tools,FALSE,
+Golang,trial,languages & frameworks,FALSE,
+Typescript,trial,languages & frameworks,TRUE,
+NextJS,trial,languages & frameworks,TRUE,
+Event-based communication,trial,techniques,TRUE,"Event based communication is a powerful tool - when used in the right context"
+gRPC,assess,languages & frameworks,FALSE,
+Heroku,hold,platforms,TRUE,"Although easier to use, we prefer the flexibility of Kubernetes deployments"
+Google Cloud Platform,hold,platforms,TRUE,
+New Relic,hold,platforms,FALSE,Prefer Datadog instead
+Logentries,hold,tools,FALSE,Deprecated in favor of Datadog
+Librato,hold,tools,FALSE,Deprecated in favor of Datadog
+Swift,hold,languages & frameworks,FALSE,
+Java,hold,languages & frameworks,FALSE,
+Node.js,hold,languages & frameworks,FALSE,"Prefer Python or Go on the backend instead"
