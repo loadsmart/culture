@@ -11,7 +11,7 @@ If you are interviewing for an engineering position at Loadsmart, the steps belo
 2. [Coding exercise](#coding-exercise)
 3. [Systems Design interview](#systems-design-interview)
 4. [Team fit interview](#team-fit-interview)
-5. [Thumbs meeting](#thumbs-meeting)
+5. [Decision meeting](#decision-meeting)
 6. [Offer](#offer)
 
 ## Screening interview
