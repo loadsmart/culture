@@ -20,7 +20,7 @@ This interview is conducted by one of the Loadsmart recruiters. The main goal is
 You may use this interview to discuss the moment you find yourself at your current company, what do you expect from us, and anything that would make you comfortable before deciding on moving ahead with the process.
 
 ## Coding exercise
-This may vary depending on the position you are applying to but in general it consists in a problem that is given to you to be solved. These are programming tasks that go from logical exercises, to day-to-day problem solving tasks, to framework specific questions.
+This may vary depending on the position you are applying to but in general, it consists of a problem that is given to you to be solved. These are programming tasks that go from logical exercises, to day-to-day problem solving tasks, to framework-specific questions.
 
 These are usually done via [HackerRank](https://www.hackerrank.com). However, there are positions that we have been using our own set of problems and for those you should be receiving a problem description (plain text) where the solution would be done through a private GitHub under your own account.
 
