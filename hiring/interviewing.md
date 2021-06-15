@@ -32,7 +32,7 @@ If in the previous interview you had the chance to show your coding and logical-
 ## Team fit interview
 At this step, most of the technical assessments are already done. Now is the time when you are interviewing with the team you are potentially going to be working with.
 
-In this interview, you will be discussing your interests, talking about some of your soft skills, they way you like or not to do things, and so on. It is also when the team leaders will be checking if you are the best fit for their team. And if that's not the case (maybe because let's say they are looking for someone with a different set of skills), you could also be interviewing with leaders from other teams until we find the best team for you.
+In this interview, you will be discussing your interests, talking about some of your soft skills, the way you like or not to do things, and so on. It is also when the team leaders will be checking if you are the best fit for their team. And if that's not the case (maybe because they are looking for someone with a different set of skills), you could also be interviewing with leaders from other teams until we find the best team for you.
 
 ## Thumbs meeting
 Now that all the interviews are done, everyone that participated in your hiring process will get together to discuss whether or not we are moving forward with an offer. As different people participate in different steps of the process, having all participants discussing their points of view makes sure we all have the same context and the alignment we need.
