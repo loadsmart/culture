@@ -13,4 +13,4 @@ To refer someone, make sure you have access to [Lever](https://hire.lever.co) by
 
 Referrals are priority in our hiring queue. However, it's important to mention that every candidate goes through the same and all [interviewing steps](./interviewing.md), regardless of their background.
 
-📝 Note: Our referral program is only for internal employees at the moment. We might have external referral programs (non-employees referring candidates) in future but there's nothing planned on that yet.
+📝 Note: Our referral program is only for internal employees at the moment. We might have external referral programs (non-employees referring candidates) in the future but there's nothing planned on that yet.
