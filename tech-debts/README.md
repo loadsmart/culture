@@ -1,21 +1,25 @@
-### Tech Debts
+# Tech Debts
 
-- Everything that wasn't done properly for some reason and have some undesired side effect like slowing the development process or having a security flaw.
-- "Buy debt" to meet deadlines, but be sure to manage and pay tech debts often so that it doesn't pile up and get too big and too unmanageable.
-- We need to be continuously paying tech debt.
-- Every software company has tech debts. We should get used to this.
+Everything that wasn't properly done for whatever is the reason and that has undesired side effects is considered a tech debt. Examples of side effects are:
+- Things that slow the team down
+- Decrease of the quality of the code base (lack of patterns, code duplication, untested code, etc.)
+- Security flaws
+- Outdated dependencies
+- and others
 
-- For the big tech debts, we need to create OKRs to it. We need to prioritise some projects during OKR planning time.
-- Big tech debt backlog
-- For the smaller ones, we have 1 FF per squad group always working on it (when there is no fire and we have pending tech debts, of course). That way, we can guarantee we are consistently paying our debts.
-- Jira Tech Debts Overview
+As engineers, we should be constantly paying those tech debts while still being able to deliver great products and meet deadlines. Keep always an eye on the [Tech Debts Overview](https://loadsmart.atlassian.net/secure/Dashboard.jspa?selectPageId=10611) 🔒 dashboard to make sure the # of tech debts is not increasing over time.
 
-<!-- prettier-ignore-start -->
-<!-- start_toc -->
-| Doc | Overview |
-|--|--|
+## Paying debts
 
-<!-- end_toc -->
-<!-- prettier-ignore-end -->
+### Single-squad debts
 
-[TODO]
+Tech debts for projects that are owned by a single squad should usually be tackled within the squad's sprint. For every every sprint (or a certain window of time for teams that don't run sprints), it is recommended that around 15% of its time is dedicated to tech debt payment.
+
+### Multi-squad debts
+
+When tech debts are big enough that paying them would require a coordinated effort of more than one squad, then those should be better planned.
+
+As it may touch the work of many individuals, these type of tech debts are better suitable to be discussed through an [RFC](https://github.com/loadsmart/rfcs) 🔒, so that those involved can chime in and share their thoughts on possible solutions and on the problem itself.
+
+<!-- TODO: Link the Working Group reference in this repo when it's done -->
+After having a technical plan on how this multi-squad tech debt is going to be tackled, now it's time to organize the individuals (or teams) that will be working on it. [Working Groups](https://loadsmart.atlassian.net/wiki/spaces/engineering/pages/1878130703/Working+Groups) 🔒 are a great format when it comes to solving multi-squad tech debts, as they are short-lived, temporary, diverse, and they are formed to solve a cross-organization issue.
