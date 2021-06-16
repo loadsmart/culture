@@ -56,7 +56,7 @@ It is not expected. However, if availability permits, EMs can also work on small
 Any engineer with technical experience equivalent of Senior I willing to take on more responsibilities.
 
 ### Who can be an Engineering Manager?
-Any Tech Lead with more than at least 1 year in the role that has decided to continue progressing on the management track is eligible to be an Engineering Manager.
+Any Tech Lead with direct reports and with more than 1 year in the role that has decided to continue progressing on the management track is eligible to be an Engineering Manager.
 
 ### How many direct reports should an engineering manager have?
 6 to 8
