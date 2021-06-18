@@ -37,3 +37,10 @@ Our Radar has four rings, which we'll describe starting from the middle:
 - The **Hold** ring is for things that, even though they are accepted in the industry, we haven't had a good experience with. Therefore we are calling them out to warn you that you may run into trouble with them as well. Sometimes this is because we don't think they're mature enough yet; sometimes it means we think they're irredeemably flawed; or just being misused. We do place things in the Hold ring that we wish the industry wouldn't use.
 
 Having said that, the order of the entries on the [CSV](./loadsmart-tech-radar.csv) file matters. The first entries for a given quadrant are the ones closer to the next center-most ring.
+<!-- prettier-ignore-start -->
+<!-- start_toc -->
+| Doc | Overview |
+|--|--|
+
+<!-- end_toc -->
+<!-- prettier-ignore-end -->undefined
