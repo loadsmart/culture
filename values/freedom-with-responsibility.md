@@ -1,5 +1,5 @@
 ---
-title: Freedom with responsibility environment
+title: Freedom with responsibility
 description: Flexible on rules but results are expected
 ---
 
