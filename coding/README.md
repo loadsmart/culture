@@ -1,31 +1,30 @@
 # Coding
 
-- Keep it simple. Simple solutions are faster to implement, maintain and scales better. Avoid duplication of code at all costs. Too hard to maintain.
-- Mandatory code review, but keep PRs small.
-- Try to automate repetitive tasks.
-- Use meaningful names on your code.
-- Comment your code if needed, but keep in mind that good code doesn't need much doc.
-- Write good commit messages and comment as much as you want during code review.
+## Producing Code
 
-- Respect code standards (PEP8 and AirBnb, ESlint and React Recommended)
-- The team that builds a code needs to maintain it later.
-- Every piece of code should have clear owners that decides the rules to work with that piece of code.
-- Bus factor >= 2
-- Every engineer needs to have access to any code so that he or she can collaborate in some manner, but they need the approval of code owners during code review.
-- Don't build code blocks (classes, methods or functions) too big. Too hard to maintain.
+- Keep it simple and do not over-engineer solutions
+- Avoid code duplication as much as you can
+- Use meaningful names in your code - variables, functions and classes should explicitly say what they mean
+- Try to automate repetitive tasks [when it is worth it](https://xkcd.com/1205/)
+- Don't build code blocks (classes, methods or functions) too big. They're hard to maintain. Prefer to follow the [single-responsibility principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
+- Code comments should only be added to answer a question that the code itself can’t
+- Respect code standards (PEP8 and AirBnb, ESlint and React Recommended), although tools will play the main role here
 
-- Testing:
-- TDD > DTT > no test at all (writing your test before the code is better than doing it after, that is better than not writing tests at all).
-- Test code coverage > 90%.
-- Unit tests, integration tests, acceptance tests, ...
-- Continuous integration:
-- Do small commits and integrate your work with other people work as soon as possible to avoid integration nightmare.
-- Continuous Delivery:
-- Generate value and validate hypothesis as soon as possible.
-<!-- prettier-ignore-start -->
-<!-- start_toc -->
-| Doc | Overview |
-|--|--|
+## Processes around Coding
 
-<!-- end_toc -->
-<!-- prettier-ignore-end -->undefined
+- Code reviews are mandatory
+- Keep Pull Requests small to get the best of the reviewing process
+- Integrate often and avoid long-living feature branches
+- Do Pair Programming often and have feedback on your code sooner
+- Write good and descriptive commit messages. Title and body if needed. [Commitizen](https://github.com/commitizen/cz-cli) is a good tool to help (but not required)
+- Comment as much as you want during code review, having our [teamwork](../values/teamwork.md) value always in mind
+- The team that builds the code needs to maintain it later
+- Every piece of code should have clear owners that decide the rules to work with that code - we use GitHub's [CODEOWNERS](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners)
+- [Bus factor](https://en.wikipedia.org/wiki/Bus_factor) >= 2
+- Every engineer has read access to all repositories. Write access is given to them through the teams they belong to
+
+## Testing
+
+- Your code should always be tested. Whether it's a unit, functional or e2e test, make sure your code is covered
+- TDD is good but not mandatory. Do only if you feel comfortable in doing so.
+- Code coverage ideally greater than 90%. Do not blindly target the 100% - sometimes reaching it is not worth it
