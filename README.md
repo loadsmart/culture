@@ -2,7 +2,7 @@
 
 👋 Hello and welcome to Loadsmart
 
-For a more concise and visual version of it, you can also check [this presentation](https://docs.google.com/presentation/d/12S0OM95M1eLpmkLJmXf05TyTpNvfCU_qiYTNs4rjan8/).
+For a more concise and visual version of this repositoy, you can also check [this presentation](https://docs.google.com/presentation/d/12S0OM95M1eLpmkLJmXf05TyTpNvfCU_qiYTNs4rjan8/).
 
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
