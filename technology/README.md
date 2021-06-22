@@ -17,3 +17,13 @@ Avoid branching open source projects because we create another thing to maintain
 - Do not open source any internal code without communicating to Loadsmart leadership first - _there are some implications that they need to be aware upfront_
 - When making a project publicly available, prefer either MIT or Apache v2 as their license. And CC-4.0 for creative content.
 - Also make sure your project has clear contribution guidelines and that it is ready to start receiving Pull Requests
+
+## More
+
+<!-- prettier-ignore-start -->
+<!-- start_toc -->
+| Doc | Overview |
+|--|--|
+| [Loadsmart Tech Radar](/technology/tech-radar.md#readme) | What tech we use and their state at Loadsmart |
+<!-- end_toc -->
+<!-- prettier-ignore-end -->

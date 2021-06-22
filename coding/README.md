@@ -28,3 +28,9 @@
 - Your code should always be tested. Whether it's a unit, functional or e2e test, make sure your code is covered
 - TDD is good but not mandatory. Do only if you feel comfortable in doing so.
 - Code coverage ideally greater than 90%. Do not blindly target the 100% - sometimes reaching it is not worth it
+
+<!-- prettier-ignore-start -->
+<!-- start_toc -->
+
+<!-- end_toc -->
+<!-- prettier-ignore-end -->

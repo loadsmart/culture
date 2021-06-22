@@ -23,9 +23,9 @@ As it may touch the work of many individuals, these type of tech debts are bette
 
 <!-- TODO: Link the Working Group reference in this repo when it's done -->
 After having a technical plan on how this multi-squad tech debt is going to be tackled, now it's time to organize the individuals (or teams) that will be working on it. [Working Groups](https://loadsmart.atlassian.net/wiki/spaces/engineering/pages/1878130703/Working+Groups) 🔒 are a great format when it comes to solving multi-squad tech debts, as they are short-lived, temporary, diverse, and they are formed to solve a cross-organization issue.<!-- prettier-ignore-start -->
+
+<!-- prettier-ignore-start -->
 <!-- start_toc -->
-| Doc | Overview |
-|--|--|
 
 <!-- end_toc -->
-<!-- prettier-ignore-end -->undefined
+<!-- prettier-ignore-end -->

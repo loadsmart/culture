@@ -56,7 +56,7 @@ readmeFolders.forEach(folder => {
       return `| [${title}](/${subREADMEPath}#readme) | ${description} |`
     })
 
-  const inside = `| Doc | Overview |\n|--|--|\n${docs.join("\n")}`
+  const inside = docs.length > 0 ? `| Doc | Overview |\n|--|--|\n${docs.join("\n")}` : ''
 
   const newContent = `${before}${inside}${after}`
   fs.writeFileSync(readmePath, newContent, "utf8")

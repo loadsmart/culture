@@ -45,4 +45,10 @@ Great! Now you are at a point that you do feel comfortable with the code base, y
 - [Engineering Blog](https://github.com/loadsmart/blog)
 - [Engineering Twitter](https://twitter.com/LoadsmartEng)
 - [Reflektive (for Goals setting)](http://reflektive.com/app)
-- [More on Confluence](https://loadsmart.atlassian.net/wiki/spaces/HAN/overview)
+- [More on Confluence](https://loadsmart.atlassian.net/wiki/spaces/HAN/overview)<!-- prettier-ignore-start -->
+
+<!-- prettier-ignore-start -->
+<!-- start_toc -->
+
+<!-- end_toc -->
+<!-- prettier-ignore-end -->

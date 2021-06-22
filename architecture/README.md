@@ -12,3 +12,9 @@ Also:
 - Hide implementation details behind well designed interfaces
 - Use APIs to connect different systems
 - Don't build systems that are too big and with wide responsibilities
+
+<!-- prettier-ignore-start -->
+<!-- start_toc -->
+
+<!-- end_toc -->
+<!-- prettier-ignore-end -->

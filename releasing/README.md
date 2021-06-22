@@ -18,3 +18,9 @@ However, if downtime is inevitable:
 - Do it outside of working hours. For systems that our own employees use, consider working hours as 8am-6pm Central Time
 - Warn everyone that is affected by it with some time in advance
 - Warn again just before the downtime and right after it
+
+<!-- prettier-ignore-start -->
+<!-- start_toc -->
+
+<!-- end_toc -->
+<!-- prettier-ignore-end -->
