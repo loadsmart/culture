@@ -5,7 +5,7 @@ description: A day of an Engineering Manager at Loadsmart
 
 # Engineering Manager
 
-Engineering Managers are responsible for organizing the team, process, and ensuring people are happy, productive, and growing. However, this is not a pure people management role. Regardless of their technical background (backend, frontend, data science, etc), Engineering Managers should feel comfortable discussing high level architecture of systems (HTTP, API, databases, message brokers, cache, etc), providing inputs based on their experience and guiding the team to achieve the best outcome in discussions.
+Engineering Managers are responsible for organizing the team, process, and ensuring people are happy, productive, and growing in their career. However, this is not a pure people management role. Regardless of their technical background (backend, frontend, data science, etc), Engineering Managers should feel comfortable discussing high level architecture of systems (HTTP, API, databases, message brokers, cache, etc), providing inputs based on their experience and guiding the team to achieve the best outcome in discussions.
 
 For a descriptive - and non-exhaustive - list of tasks performed by an Engineering Manager, check the sections below.
 
@@ -24,7 +24,7 @@ For a descriptive - and non-exhaustive - list of tasks performed by an Engineeri
 ## People
 
 - Evaluate training courses, conferences, and any other form of resources to make people grow
-- Lead the efforts of helping the team gel better, while also guaranteeing individuals feel like they are part of a safe group
+- Lead the efforts of helping the team [gel](https://www.macmillandictionary.com/us/dictionary/american/gel_2) better, while also guaranteeing individuals feel like they are part of a safe group
 - Provide opportunities for team members to grow in their careers, being available to guide them through your experiences
 - Effectively delegate tasks to ICs and/or Tech Leads - that were agreed upon - so that they can grow without being swamped
 - Act to resolve conflicts in the team that could not be resolved by the team members themselves
@@ -45,7 +45,7 @@ For a descriptive - and non-exhaustive - list of tasks performed by an Engineeri
 - Frequently assess your team's capacity, raising the need for more headcount when capacity is low and to hold on hiring when capacity is too high
 - Make joint decisions with Product when features need to be re-prioritized given your team's current capacity
 - Be accountable for the OKRs your teams are pursuing and educate team members to also keep their eyes on them
-- Pre-align with shareholders what your teams are delivering each quarter, sharing the progress whenever something valuable is delivered
+- Pre-align with stakeholders what your teams are delivering each quarter, sharing the progress whenever something valuable is delivered
 
 ## Process Execution (shared with Tech Leads)
 
@@ -53,7 +53,7 @@ For a descriptive - and non-exhaustive - list of tasks performed by an Engineeri
 - Be on top of any blockers that are preventing the team from delivering results, and work on unblocking them
 - Understand where bugs are coming from, find patterns, and work on the root causes
 - Control the growth of tech-debts by constantly and responsibly having the team paying them
-- Lead retrospective meetings, create a space where people are feel to speak, distribute and work on the action items
+- Lead retrospective meetings, create a space where people feel free to speak, distribute and work on the action items
 
 ## Partnership with Product (for Product Engineering Teams)
 

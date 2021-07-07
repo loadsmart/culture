@@ -26,7 +26,7 @@ Engineering Managers.
 TL: Sprints, EM: Roadmap and Backlog
 
 ### Should the Tech Lead be the most senior individual in the team?
-Not necessarily. Otherwise we limit the bar of the team to be the TL's current bar.
+Not necessarily. As the tech lead is a role that any engineer (Senior I+) can play, other engineers in the team may have a higher position.
 
 ### Who's responsible for guaranteeing projects are on-time?
 Every project has to have a Project Lead. This individual is the responsible. Tech Leads may lead Projects too. Engineering Managers shouldn't.
@@ -40,7 +40,7 @@ Product Managers and Engineering Managers. See above.
 ### Who's responsible for interfacing with other squads?
 For technical matters, Tech Leads. For anything else, Engineering Managers. Alignment is expected between peers. TL-TL, EM-EM.
 
-### Who's responsible for leading the scrum ceremonies?
+### Who's responsible for leading the agile ceremonies?
 Engineering Managers do. But Project Leaders should own the parts of what touches their projects.
 
 ### Who's responsible for the quality of the code delivered by the team?
@@ -63,3 +63,6 @@ Any Tech Lead with direct reports and with more than 1 year in the role that has
 
 ### How many direct reports should a Tech Lead with reporting structure have?
 Not more than 4.
+
+### If tech lead has direct reports and decide to not be a tech lead anymore, how do restructure these reports?
+In this case, Engineering Manager in line will take over the direct reports. However, it is expected this restructure to happen gradually - it helps ICs and Manager to adapt to the new scenario easier.

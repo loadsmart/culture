@@ -9,4 +9,4 @@ A Project Lead is an individual contributor of any level that is responsible - f
 
 It is important that teams with multiple projects assign different Project Leads to each one of them, in a rotation fashion. This gives everyone from the team the opportunity to take on small leadership roles. However, remember that finding the right balance between project complexity and engineer's seniority is key to the success of the project and to also not overwhelm individuals.
 
-As you may imagine at this point, Project Lead is also a role. And it can be performed by multiple individuals at the same time. This is a good opportunity for everyone willing to start improving their leadership and communication skills as a software engineer.
+As you may imagine at this point, Project Lead is also a role. And it can be performed by multiple individuals at the same time. One individual per project. This is a good opportunity for everyone willing to start improving their leadership and communication skills as a software engineer.
