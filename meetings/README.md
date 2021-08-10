@@ -25,7 +25,8 @@ Always keep an eye on your calendar. If you accept an invitation, it's expected 
 
 <div align="center">
   <img alt="Corporate Monster" src="./corporate-monster.jpeg" />
-  <i>Corporate Monster by <a href="https://github.com/samuelsancao">Samuel Sanção</a></i>
+  <br/>
+  <i>Corporate Monster, by <a href="https://github.com/samuelsancao">Samuel Sanção</a></i>
 </div>
 
 <!-- prettier-ignore-start -->
