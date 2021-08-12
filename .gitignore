@@ -2,3 +2,5 @@ node_modules
 yarn.lock
 .DS_Store
 *.swp
+.idea
+.python-version
