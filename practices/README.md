@@ -63,23 +63,40 @@ Each new pull request should have additional tests,
 which will check new code,
 but should *not* reduce coverage of existing code.
 
+Code coverage ideally greater than 90%.
+Do not blindly target the 100%.
+Sometimes, reaching it is not worth it.
+
 ### Pull Request Reviews
 
+Code reviews are mandatory.
 Consider the feedback of teammates.
 Any feedback provided in pull requests should be evaluated. 
 Even if action is not taken right away,
 but never disregarded.
 
+### Pul Request Comments
+
+Comment as much as you want during code review,
+having our [teamwork](../values/teamwork.md) value always in mind.
+
 ## Code Writing
 
-### Formatting
+### Code Formatting
 
-Keep the code formatted.
+Keep the code well-formatted.
 It makes it easier to read and diff.
+Respect code standards (PEP8 and AirBnb, ESlint and React Recommended),
+although tools will play the main role here.
 
-### Small Functions
+### Code Readability
 
-Write small functions.
+Write code that documents itself.
+Code comments should only be added to answer a question that the code itself cannot.
+
+### Small Functions / Methods / Classes
+
+Write small functions, methods or classes.
 It makes them easier to read, to change and to test.
 
 ### Function Breakdown
@@ -88,8 +105,8 @@ Break down large functions into smaller ones.
 
 ### Terminology
 
-Use meaningful names and concepts.
-Domain-related terms help in understanding.
+Use meaningful names and concepts in variables, functions and classes.
+Domain-related terms help in understanding the code.
 
 ### Abstraction
 
@@ -99,10 +116,17 @@ it is probably missing a level of abstraction.
 
 ### Test-Drive
 
-Test-drive code.
-Write test code before writing or changing the implementation code.
-So that it is clear when the code change has achieved the goal,
-or broken an existing requirement.
+Consider writing the test code before writing or changing the implementation code.
+Or, as at least, try thinking about the testing scenarios before implementing the code.
+So that it is clear when the code changes have achieved the implementation goal.
+
+### Simplicity
+
+Keep the code as simple as possible; avoid over-engineering solutions.
+
+### Code Duplication
+
+Avoid [duplicating code](https://en.wikipedia.org/wiki/Duplicate_code) as much as possible.
 
 ### Refactoring
 
@@ -110,13 +134,31 @@ Redesign, refactor as needed.
 When we cannot figure out how to implement a test,
 we are probably missing a new abstraction.
 
+### Pair Programming
+
+Do Pair Programming often and have feedback on your code sooner.
+
+### Commit / Pull Request Messages
+
+Write descriptive commit messages.
+Title and body if needed. [Commitizen](https://github.com/commitizen/cz-cli) is a good tool to help (but not required)
+
 ## Code Testing
+
+### Always Testing
+
+Your code should always be tested.
+Whether it's a unit, functional or e2e test,
+make sure your code is covered
 
 ### Testing Automation
 
-Automate tests.
-The more automated, the faster they are to execute;
+Automate tests [when it is worth it](https://xkcd.com/1205/)
+The more automated the tests, 
+the faster they are to execute;
 and more reusable, reproducible.
+Consider the [testing pyramid](https://martinfowler.com/bliki/TestPyramid.html)
+when making decisions on your testing effort.
 
 ### Testing Scenarios
 
@@ -148,3 +190,37 @@ Log special, error conditions in code as warnings, errors.
 Log the start and completion of tasks.
 It will help in unearthing, diagnosing problems early,
 even before getting to production.
+
+## Code Ownership
+
+### Code Maintenance
+
+The team that builds the code needs to maintain it later.
+
+### Code Owners
+
+Every piece of code should have clear owners,
+which decide the rules to work with that code.
+We use GitHub's [CODEOWNERS](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners)
+
+### Code Access
+
+Every engineer should have read access to all repositories.
+Write access is given to them through the teams that own them.
+
+### Bus Factor
+
+[Bus factor](https://en.wikipedia.org/wiki/Bus_factor) should be >= 2, preferably greater.
+
+## Continuous Deployment
+
+### Leverage Automation
+
+Try to automate repetitive tasks [when it is worth it](https://xkcd.com/1205/).
+
+## References
+
+Some inspiring references for the practices above:
+- [Extreme Programming Explained](https://books.google.com.br/books/about/Extreme_Programming_Explained.html)
+- [The Pragmatic Programmer](https://www.google.com/books/edition/The_Pragmatic_Programmer/5wBQEp6ruIAC)
+- [Software Craftsmanship](https://www.amazon.com.br/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862)

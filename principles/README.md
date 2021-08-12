@@ -94,9 +94,9 @@ Find the critical path of implementation tasks.
 
 ### Maintainability
 
-Write code that documents itself.
 Encapsulate the components that change often.
 Define clear, stable interfaces between the components.
+Remember that the team that writes the code needs to maintain it later.
 
 ### Scope
 
@@ -115,3 +115,20 @@ Start testing; finish testing.
 Test-drive your implementation whenever possible.
 Consider the code "done" only
 after all acceptance tests are passing on all environments.
+
+### Everything DRY
+
+Don't repeat yourself ([DRY](https://en.wikipedia.org/wiki/Don't_repeat_yourself)) 
+when writing code or documentation, or even when designing the software.
+
+### SOLID Principles
+
+Use the [SOLID](https://en.wikipedia.org/wiki/SOLID) principles as a guide
+when designing and implementing software.
+
+## References
+
+Some inspiring references for the principles above:
+- [Extreme Programming Explained](https://books.google.com.br/books/about/Extreme_Programming_Explained.html)
+- [The Pragmatic Programmer](https://www.google.com/books/edition/The_Pragmatic_Programmer/5wBQEp6ruIAC)
+- [Software Craftsmanship](https://www.amazon.com.br/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862)

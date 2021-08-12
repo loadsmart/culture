@@ -12,7 +12,6 @@ For a more concise and visual version of this repository, you can also check [th
 | [Bug fixes](/bug-fixes#readme) | From reporting to solving |
 | [Career at Loadsmart](/careers#readme) | Our ladder and opportunities of growth |
 | [Chapters](/chapters#readme) | Back End, Front End, Mobile, Data Science, etc |
-| [Coding](/coding#readme) | Good practices to take into consideration |
 | [Hiring at Loadsmart](/hiring#readme) | Outline of each step of our hiring process |
 | [Meetings](/meetings#readme) | Our policy for scheduling, preparing, and attending meetings |
 | [Onboarding](/onboarding#readme) | Your first weeks at Loadsmart |
