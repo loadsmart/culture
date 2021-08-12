@@ -21,6 +21,8 @@ For a more concise and visual version of this repository, you can also check [th
 | [Tech Debts](/tech-debts#readme) | How and when they are bought and paid |
 | [Technology](/technology#readme) | Our stack and tech radar |
 | [Values](/values#readme) | The 5 values of Loadsmart's Engineering Team |
+| [Principles](/principles#readme) | The principles adopted by Loadsmart's Engineering Team |
+| [Practices](/practices#readme) | The practices to be excelled by Loadsmart's Software Engineers |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
 
