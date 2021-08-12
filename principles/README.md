@@ -103,7 +103,6 @@ Define clear interfaces between the components.
 Look into scope-cutting
 if that will help us maintain quality and schedule.
 
-
 ### Step-By-Step
 
 Break down work into small, easy-to-implement steps.
