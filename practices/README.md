@@ -164,7 +164,7 @@ when making decisions on your testing effort.
 
 Define clearly the scenarios.
 Specify the set of testable statements,
-which will tell you this implementation is complete.
+which will tell you the implementation is complete.
 
 ### Testing on Reality
 
