@@ -96,7 +96,7 @@ Find the critical path of implementation tasks.
 
 Write code that documents itself.
 Encapsulate the components that change often.
-Define clear interfaces between the components.
+Define clear, stable interfaces between the components.
 
 ### Scope
 
