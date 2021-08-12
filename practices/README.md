@@ -75,7 +75,7 @@ Any feedback provided in pull requests should be evaluated.
 Even if action is not taken right away,
 but never disregarded.
 
-### Pul Request Comments
+### Pull Request Comments
 
 Comment as much as you want during code review,
 having our [teamwork](../values/teamwork.md) value always in mind.
