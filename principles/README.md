@@ -17,7 +17,7 @@ to achieve or maintain some value,
 which is the end goal.
 Thus, 
 a principle is the beginning,
-actions are the means,
+actions (practices) are the means,
 a value is the end.
 
 ## Principles of Accountability
