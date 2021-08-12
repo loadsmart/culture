@@ -169,8 +169,8 @@ which will tell you the implementation is completed with quality.
 ### Testing on Reality
 
 Test with real, production-like data.
-If the tests do not exercise the code with real data,
-they will not catch real production issues.
+If the tests do *not* exercise the code with real data,
+they will *not* catch real production issues.
 
 ### Beyond Happiness
 
