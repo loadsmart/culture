@@ -201,7 +201,7 @@ The team that builds the code needs to maintain it later.
 
 Every piece of code should have clear owners,
 which decide the rules to work with that code.
-We use GitHub's [CODEOWNERS](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners)
+We use GitHub's [CODEOWNERS](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-code-owners).
 
 ### Code Access
 
