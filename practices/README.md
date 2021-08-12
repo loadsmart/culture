@@ -149,7 +149,7 @@ Title and body if needed. [Commitizen](https://github.com/commitizen/cz-cli) is 
 
 Your code should always be tested.
 Whether it's a unit, functional or e2e test,
-make sure your code is covered
+make sure your code is covered.
 
 ### Testing Automation
 
