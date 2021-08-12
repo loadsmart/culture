@@ -83,7 +83,7 @@ whether the task will contribute to delivering a release.
 
 ### Requirements
 
-Make the acceptance tests have been defined
+Make sure the acceptance tests have been defined
 before getting started on any implementation.
 
 ### Planning
