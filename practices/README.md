@@ -153,7 +153,7 @@ make sure your code is covered.
 
 ### Testing Automation
 
-Automate tests [when it is worth it](https://xkcd.com/1205/)
+Automate tests [when it is worth it](https://xkcd.com/1205/).
 The more automated the tests, 
 the faster they are to execute;
 and more reusable, reproducible.
