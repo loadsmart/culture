@@ -53,8 +53,10 @@ as long as each PR results in working, tested, releasable software.
 
 ### Pull Request Accretions
 
-Each pull request should be an accretion.
+Each pull request should be an [accretion](https://en.wikipedia.org/wiki/Accretion_(geology)).
 It is a new layer on top of an existing foundation (previous PRs).
+If the foundation needs to be changed,
+consider having the refactoring as a separate PR from the new feature implementation.
 
 ### Code Coverage
 
