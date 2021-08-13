@@ -180,8 +180,7 @@ Think about all types of input data: out-of-bounds, out-of-format, none / null, 
 
 ### Validate Input
 
-Validate input data in APIs, interfaces.
-Make sure APIs validate input data before using them.
+APIs, interfaces should validate input data before using them.
 APIs should return helpful validation errors; not stack traces.
 
 ### Log Away
