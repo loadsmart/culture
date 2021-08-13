@@ -135,6 +135,8 @@ Avoid [duplicating code](https://en.wikipedia.org/wiki/Duplicate_code) as much a
 Redesign, refactor as needed.
 When we cannot figure out how to implement a test,
 we are probably missing a new abstraction.
+Consider having the refactoring as a separate commit or PR
+from the new feature implementation.
 
 ### Pair Programming
 
