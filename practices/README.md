@@ -12,7 +12,7 @@ in order to achieve the engineering values.
 
 ### Task Breakdown 
 
-Break down tasks into sub-tasks.
+Break down the work into smaller and meaningful tasks.
 It helps us get started,
 and know when we are really done.
 
