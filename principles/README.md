@@ -114,7 +114,7 @@ allowing continuous progress.
 Start testing; finish testing.
 Test-drive your implementation whenever possible.
 Consider the code "done" only
-after all acceptance tests are passing on all environments.
+after all the tests are passing on all environments.
 
 ### Everything DRY
 
