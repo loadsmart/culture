@@ -8,5 +8,6 @@
 | [Data Science](/chapters/data-science.md#readme) | The Data Science Chapter |
 | [Front End](/chapters/front-end.md#readme) | The Front End Chapter |
 | [Mobile](/chapters/mobile.md#readme) | The Mobile Chapter |
+| [Security](/chapters/security.md#readme) | The Security Chapter |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
