@@ -204,8 +204,7 @@ We use GitHub's [CODEOWNERS](https://docs.github.com/en/github/creating-cloning-
 
 ### Code Access
 
-Every engineer should have read access to all repositories.
-Write access is given to them through the teams that own them.
+Every engineer has read / write access to all repositories.
 
 ### Bus Factor
 
