@@ -140,7 +140,8 @@ from the new feature implementation.
 
 ### Pair Programming
 
-Do Pair Programming often and have feedback on your code sooner.
+Recommended being done frequently, but not required.
+Pair-programming allow having feedback on your code sooner than code reviews.
 
 ### Commit / Pull Request Messages
 
