@@ -12,7 +12,6 @@ For a more concise and visual version of this repository, you can also check [th
 | [Bug fixes](/bug-fixes#readme) | From reporting to solving |
 | [Career at Loadsmart](/careers#readme) | Our ladder and opportunities of growth |
 | [Chapters](/chapters#readme) | Back End, Front End, Mobile, Data Science, etc |
-| [Coding](/coding#readme) | Good practices to take into consideration |
 | [Hiring at Loadsmart](/hiring#readme) | Outline of each step of our hiring process |
 | [Meetings](/meetings#readme) | Our policy for scheduling, preparing, and attending meetings |
 | [Onboarding](/onboarding#readme) | Your first weeks at Loadsmart |
@@ -21,6 +20,8 @@ For a more concise and visual version of this repository, you can also check [th
 | [Tech Debts](/tech-debts#readme) | How and when they are bought and paid |
 | [Technology](/technology#readme) | Our stack and tech radar |
 | [Values](/values#readme) | The 5 values of Loadsmart's Engineering Team |
+| [Principles](/principles#readme) | The principles adopted by Loadsmart's Engineering Team |
+| [Practices](/practices#readme) | The practices to be excelled by Loadsmart's Software Engineers |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
 
