@@ -34,7 +34,7 @@ readmeFolders.forEach(folder => {
   // We want to swap out the center of a toc with a new version of the README
   const content = fs.readFileSync(readmePath, "utf8")
   const before = `${content.split(aboveTOC)[0]}${aboveTOC}\n`
-  const after = `\n${belowTOC}${content.split(belowTOC)[1]}`
+  const after = `\n${belowTOC}${content.split(belowTOC)[1] || ''}`
 
   // Make a TOC with all the markdown files in that folder
   const docs = fs
@@ -65,7 +65,7 @@ readmeFolders.forEach(folder => {
 // Edit the root README to highlight the areas of docs
 const content = fs.readFileSync("README.md", "utf8")
 const before = `${content.split(aboveTOC)[0]}${aboveTOC}\n`
-const after = `\n${belowTOC}${content.split(belowTOC)[1]}`
+const after = `\n${belowTOC}${content.split(belowTOC)[1] || ''}`
 
 const docs = readmeFolders.map(f => {
   const jsonPath = join(f, "summary.json")

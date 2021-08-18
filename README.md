@@ -15,13 +15,13 @@ For a more concise and visual version of this repository, you can also check [th
 | [Hiring at Loadsmart](/hiring#readme) | Outline of each step of our hiring process |
 | [Meetings](/meetings#readme) | Our policy for scheduling, preparing, and attending meetings |
 | [Onboarding](/onboarding#readme) | Your first weeks at Loadsmart |
+| [Practices](/practices#readme) | The practices to be excelled by Loadsmart's Software Engineers. |
+| [Principles](/principles#readme) | The principles adopted by Loadsmart's Engineering Team. |
 | [Product Development](/product-development#readme) | The process and how we deliver things |
 | [Releasing](/releasing#readme) | Best practices for putting code in Production |
 | [Tech Debts](/tech-debts#readme) | How and when they are bought and paid |
 | [Technology](/technology#readme) | Our stack and tech radar |
 | [Values](/values#readme) | The 5 values of Loadsmart's Engineering Team |
-| [Principles](/principles#readme) | The principles adopted by Loadsmart's Engineering Team |
-| [Practices](/practices#readme) | The practices to be excelled by Loadsmart's Software Engineers |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
 

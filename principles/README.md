@@ -132,3 +132,8 @@ Some inspiring references for the principles above:
 - [Extreme Programming Explained](https://books.google.com.br/books/about/Extreme_Programming_Explained.html)
 - [The Pragmatic Programmer](https://www.google.com/books/edition/The_Pragmatic_Programmer/5wBQEp6ruIAC)
 - [Software Craftsmanship](https://www.amazon.com.br/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862)
+<!-- prettier-ignore-start -->
+<!-- start_toc -->
+
+<!-- end_toc -->
+<!-- prettier-ignore-end -->
