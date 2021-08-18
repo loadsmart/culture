@@ -23,7 +23,6 @@ For a more concise and visual version of this repository, you can also check [th
 | [Onboarding](/onboarding#readme) | Your first weeks at Loadsmart |
 | [Practices](/practices#readme) | The practices to be excelled by Loadsmart's Software Engineers. |
 | [Principles](/principles#readme) | The principles adopted by Loadsmart's Engineering Team. |
-| [Product Development](/product-development#readme) | The process and how we deliver things |
 | [Releasing](/releasing#readme) | Best practices for putting code in Production |
 | [Tech Debts](/tech-debts#readme) | How and when they are bought and paid |
 | [Technology](/technology#readme) | Our stack and tech radar |
