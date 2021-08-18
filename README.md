@@ -6,7 +6,7 @@ This repository describes how Loadsmart Engineering functions. It is a collectio
 
 If you are a new engineer at the company, welcome! We are happy to have you here with us!
 
-If you are not, but you still want to know a bit more about what and how we do things here, feel free to explore the contents of this repository.
+If you are not, but still want to know more about how we do things here, feel free to explore the contents of this repository.
 
 For a more concise and visual version of this repository, you can also check [this presentation](https://docs.google.com/presentation/d/12S0OM95M1eLpmkLJmXf05TyTpNvfCU_qiYTNs4rjan8/).
 
