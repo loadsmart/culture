@@ -1,6 +1,12 @@
 # Loadsmart Engineering Culture
 
-👋 Hello and welcome to Loadsmart
+👋 Hello from Loadsmart
+
+This repository describes how Loadsmart Engineering functions. It is a collection of files outlining the tech and non-tech aspects of the day-to-day of an engineer at the company. This is a live project and it will be updated whenever we feel there's a need to change it to better reflect our reality.
+
+If you are a new engineer at the company, welcome! We are happy to have you here with us!
+
+If you are not, but you still want to know a bit more about what and how we do things here, feel free to explore the contents of this repository.
 
 For a more concise and visual version of this repository, you can also check [this presentation](https://docs.google.com/presentation/d/12S0OM95M1eLpmkLJmXf05TyTpNvfCU_qiYTNs4rjan8/).
 
