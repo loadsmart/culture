@@ -29,7 +29,7 @@ TL: Sprints, EM: Roadmap and Backlog
 Not necessarily. As the tech lead is a role that any engineer (Senior I+) can play, other engineers in the team may have a higher position.
 
 ### Who's responsible for guaranteeing projects are on-time?
-Every project has to have a Project Lead. This individual is the responsible. Tech Leads may lead Projects too. Engineering Managers shouldn't.
+Every project has to have a Project Lead. This individual is the responsible for it. Tech Leads may lead Projects too.
 
 ### Who's responsible for deciding what is moved from the backlog to the sprint?
 Product Managers and Engineering Managers. One understands the problems our customers have while the other, the feasibility. 
