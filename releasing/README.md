@@ -12,7 +12,8 @@
 - Services Best Practices can be found [here](https://loadsmart.atlassian.net/wiki/spaces/engineering/pages/48529412/Services+Best+Practices) 🔒
 
 ## Downtime
-Do not generate downtime while deploying - _be especially careful with data migrations!_
+Do not generate downtime while deploying - _be especially careful with data migrations!_  
+Check [this article](https://loadsmart.atlassian.net/wiki/spaces/engineering/pages/635994219/Migrations+with+zero+downtime+django) about how to do it in Django. 
 
 However, if downtime is inevitable:
 - Do it outside of working hours. For systems that our own employees use, consider working hours as 8am-6pm Central Time
