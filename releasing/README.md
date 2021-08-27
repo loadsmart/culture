@@ -13,7 +13,7 @@
 
 ## Downtime
 Do not generate downtime while deploying - _be especially careful with data migrations!_  
-Check [this article](https://loadsmart.atlassian.net/wiki/spaces/engineering/pages/635994219/Migrations+with+zero+downtime+django) about how to do it in Django. 
+Check [this article](https://loadsmart.atlassian.net/wiki/spaces/engineering/pages/635994219/Migrations+with+zero+downtime+django)🔒 about how to do it in Django. 
 
 However, if downtime is inevitable:
 - Do it outside of working hours. For systems that our own employees use, consider working hours as 8am-6pm Central Time
