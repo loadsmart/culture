@@ -14,8 +14,7 @@ For a more concise and visual version of this repository, you can also check [th
 <!-- start_toc -->
 | Section |  |
 |--|--|
-| [Guidelines for Architecture Design](/architecture#readme) | How decisions are made when thinking about architecture |
-| [Bug fixes](/bug-fixes#readme) | From reporting to solving |
+| [Architecture Design](/architecture#readme) | How decisions are made when thinking about architecture |
 | [Career at Loadsmart](/careers#readme) | Our ladder and opportunities of growth |
 | [Chapters](/chapters#readme) | Back End, Front End, Mobile, Data Science, etc |
 | [Hiring at Loadsmart](/hiring#readme) | Outline of each step of our hiring process |
