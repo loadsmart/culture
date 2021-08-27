@@ -11,5 +11,3 @@
 | [Technical excellence](/values/technical-excellence.md#readme) | Keep raising the bar |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
-
-[TODO]
