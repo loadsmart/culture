@@ -10,8 +10,8 @@ AWS,adopt,platforms,FALSE,
 Kubernetes,adopt,platforms,FALSE,
 Datadog,adopt,tools,FALSE,
 Terraform,adopt,tools,FALSE,
-Jest,adopt,languages & frameworks,FALSE
-React Testing Library,adopt,languages & frameworks,FALSE
+Jest,adopt,languages & frameworks,FALSE,
+React Testing Library,adopt,languages & frameworks,FALSE,
 Cypress,adopt,tools,FALSE,
 Styled Components,adopt,tools,FALSE,
 Storybook,adopt,tools,FALSE,
