@@ -20,7 +20,7 @@ Sentry,adopt,tools,FALSE,
 Pagerduty,adopt,platforms,FALSE,
 Fastlane,adopt,tools,FALSE,
 Datadog Synthetics,adopt,tools,FALSE,
-Golang,trial,languages & frameworks,FALSE,
+Golang,adopt,languages & frameworks,FALSE,
 Typescript,trial,languages & frameworks,TRUE,
 NextJS,trial,languages & frameworks,TRUE,
 Event-based communication,trial,techniques,TRUE,"Event based communication is a powerful tool - when used in the right context"
