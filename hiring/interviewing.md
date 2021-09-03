@@ -27,7 +27,22 @@ These are usually done via [HackerRank](https://www.hackerrank.com). However, th
 ## Systems Design interview
 After finishing the [coding exercise](#coding-exercise), the review will happen either automatically (if done via HackerRank) or manually (if done via a GitHub repo). In case of a satisfactory solution, the next step is the Systems Design Interview.
 
-If in the previous interview you had the chance to show your coding and logical-thinking abilities, in this interview, you will be demonstrating a bit of your thought process when designing new systems given a problem that is described to you. This is supposed to be an interactive conversation. Feel free to ask any questions during the interview if you need clarification on any topic.
+If in the previous interview you had the chance to show your coding and logical-thinking abilities, in this interview, you will be demonstrating a bit of your thought process when designing new systems given a problem that is described to you. This is supposed to be an interactive conversation. Feel free to ask any questions during the interview if you need clarification on any topic. 
+
+We will provide a list of high-level requirements, and we expect that you:
+
+- understand and discuss the given requirements, making sure there are no doubts
+- propose a high-level design and scope for your solution, explaining each of your decisions
+- can deep-dive into the implementation details of each of the components you propose
+- identify the bottlenecks of your solution and point areas of improvement
+
+What do we want to assess?
+
+- Communication skills and teamwork
+- Analysis and understanding of the requirements
+- A structured approach to cover the requirements
+- Proposed design to support the requirements
+- If the proposed architecture addresses trade-offs and good practices
 
 ## Team fit interview
 At this step, most of the technical assessments are already done. Now is the time when you are interviewing with the team you are potentially going to be working with.
