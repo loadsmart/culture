@@ -5,7 +5,7 @@ description: A day of an Engineering Manager at Loadsmart
 
 # Engineering Manager
 
-Engineering Managers are responsible for organizing the team, process, and ensuring people are happy, productive, and growing in their career. However, this is not a pure people management role. Regardless of their technical background (backend, frontend, data science, etc), Engineering Managers should feel comfortable discussing high level architecture of systems (HTTP, API, databases, message brokers, cache, etc), providing inputs based on their experience and guiding the team to achieve the best outcome in discussions.
+Engineering Managers are responsible for organizing the team, process, and ensuring people are happy, productive, and growing in their careers. However, this is not a pure people management role. Regardless of their technical background (backend, frontend, data science, etc), Engineering Managers should feel comfortable discussing high level architecture of systems (HTTP, API, databases, message brokers, cache, etc), providing inputs based on their experience and guiding the team to achieve the best outcome in discussions.
 
 For a descriptive - and non-exhaustive - list of tasks performed by an Engineering Manager, check the sections below.
 
@@ -27,15 +27,15 @@ For a descriptive - and non-exhaustive - list of tasks performed by an Engineeri
 - Lead the efforts of helping the team [gel](https://www.macmillandictionary.com/us/dictionary/american/gel_2) better, while also guaranteeing individuals feel like they are part of a safe group
 - Provide opportunities for team members to grow in their careers, being available to guide them through your experiences
 - Effectively delegate tasks to ICs and/or Tech Leads - that were agreed upon - so that they can grow without being swamped
-- Act to resolve conflicts in the team that could not be resolved by the team members themselves
-- Rethink team structure if team has grown too big
+- Act to resolve conflicts in the team that the team members themselves could not resolve
+- Rethink team structure if the team has grown too big
 
 ## Line management
 
 - Approve time-off requests
 - Review compensation of team members with upper engineering management
-- Do weekly or bi-weekly 1:1 meetings in a regular basis with team members
-- Constantly provide feedbacks on team members' work, and also do it formally through quarterly check-ins
+- Do weekly or bi-weekly 1:1 meetings regularly with team members
+- Constantly provide feedback on team members' work, and also do it formally through quarterly check-ins
 - Work with HR on a plan when disciplinary and/or performance issues may occur
 - Work with ICs on their promotion packet in case you agree with sponsoring them
 
@@ -49,15 +49,15 @@ For a descriptive - and non-exhaustive - list of tasks performed by an Engineeri
 
 ## Process Execution (shared with Tech Leads)
 
-- Have visibility of what team members are working on now (sprint) and what will they work next (prioritized backlog)
+- Have visibility of what team members are working on now (sprint) and what will they work on next (prioritized backlog)
 - Be on top of any blockers that are preventing the team from delivering results, and work on unblocking them
 - Understand where bugs are coming from, find patterns, and work on the root causes
-- Control the growth of tech-debts by constantly and responsibly having the team paying them
+- Control the growth of tech debts by constantly and responsibly having the team paying them
 - Lead retrospective meetings, create a space where people feel free to speak, distribute and work on the action items
 
 ## Partnership with Product (for Product Engineering Teams)
 
-- Help Product Managers on the definition of their team's OKRs
-- Plan quarterly roadmap, after discussing priorities, and given the technical implications of them (dependency with other systems, features, etc)
+- Help Product Managers in defining their teams' OKRs
+- Plan quarterly roadmap, after discussing priorities, and given the technical implications of them (dependency with other systems, features, etc.)
 - Together with the Tech Lead, guarantee Product Specs are well written and properly stating the "what" and the "why" something is worth the team's time investing
 - Foresee technical roadblocks that could potentially impact the backlog of their teams
