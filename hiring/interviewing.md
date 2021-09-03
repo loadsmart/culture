@@ -27,7 +27,7 @@ These are usually done via [HackerRank](https://www.hackerrank.com). However, th
 ## Systems Design interview
 After finishing the [coding exercise](#coding-exercise), the review will happen either automatically (if done via HackerRank) or manually (if done via a GitHub repo). In case of a satisfactory solution, the next step is the Systems Design Interview.
 
-If in the previous interview you had the chance to show your coding and logical-thinking abilities, in this interview, you will be demonstrating a bit of your thought process when designing new systems given a problem that is described to you. This is supposed to be an interactive conversation. Feel free to ask any questions during the interview if you need clarification on any topic. 
+In the previous interview you had the chance to show your coding and logical-thinking abilities. In this interview, you will be demonstrating a bit of your thought process when designing new systems given a problem that is described to you. This is supposed to be an interactive conversation. Feel free to ask any questions during the interview if you need clarification on any topic. 
 
 We will provide a list of high-level requirements, and we expect that you:
 
