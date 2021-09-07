@@ -56,3 +56,7 @@ Now that all the interviews are done, everyone that participated in your hiring 
 Congrats! You have been approved! 🎉
 
 The recruiter that was in touch with you through the whole process will now call you to give you the big news. We can't wait for you to start working with us!
+
+## Are you interested in participating?
+
+See our careers page for open roles on the [Engineering team](https://jobs.lever.co/loadsmart/?department=Engineering).
