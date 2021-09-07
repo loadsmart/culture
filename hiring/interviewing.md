@@ -31,10 +31,10 @@ In the previous interview you had the chance to show your coding and logical-thi
 
 We will provide a list of high-level requirements, and we expect that you:
 
-- understand and discuss the given requirements, making sure there are no doubts
-- propose a high-level design and scope for your solution, explaining each of your decisions
-- can deep-dive into the implementation details of each of the components you propose
-- identify the bottlenecks of your solution and point areas of improvement
+- Understand and discuss the given requirements, making sure clarify anything that isn't clear to you
+- Propose a high-level design and scope for your solution, explaining each of your decisions
+- Delve into the implementation details of each of the components you propose
+- Identify potential bottlenecks with your solution and recommend ways to improve the solution
 
 What do we want to assess?
 
