@@ -6,9 +6,8 @@ Outline of each step of our hiring process
 <!-- start_toc -->
 | Doc | Overview |
 |--|--|
+| [Carrers](/hiring/careers.md#readme) | Our careers page has all of our [open positions](https://jobs.lever.co/loadsmart/?department=Engineering) |
 | [Interviewing at Loadsmart](/hiring/interviewing.md#readme) | Our process to hire engineers |
 | [Referring a candidate](/hiring/referrals.md#readme) | The process of referring someone to our Engineering team |
-| [Careers](https://jobs.lever.co/loadsmart/) | Our careers page has all of our open positions |
-
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
