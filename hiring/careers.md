@@ -1,5 +1,5 @@
 ---
-title: Carrers
+title: Careers
 description: Our careers page has all of our [open positions](https://jobs.lever.co/loadsmart/?department=Engineering)
 ---
 
