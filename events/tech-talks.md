@@ -7,4 +7,4 @@ Everyone is welcomed and encouraged to submit a talk! Whether you have been work
 
 Even if we already have a tech talk about a given subject - submit it anyway! We will love to hear your perspective on the subject.
 
-Would you like to present something at the next Loadsmart Tech talk? Send a Slack message in #tech-talks 🔒 channel.
+Would you like to present something at the next Loadsmart Tech talk? Send a Slack message to #tech-talks 🔒 channel.
