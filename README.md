@@ -17,6 +17,7 @@ For a more concise and visual version of this repository, you can also check [th
 | [Architecture Design](/architecture#readme) | How decisions are made when thinking about architecture |
 | [Career at Loadsmart](/careers#readme) | Our ladder and opportunities of growth |
 | [Chapters](/chapters#readme) | Back End, Front End, Mobile, Data Science, etc |
+| [Events at Loadsmart](/events#readme) | Documentation on regularly occurring events and meetings |
 | [Hiring at Loadsmart](/hiring#readme) | Outline of each step of our hiring process |
 | [Meetings](/meetings#readme) | Our policy for scheduling, preparing, and attending meetings |
 | [Onboarding](/onboarding#readme) | Your first weeks at Loadsmart |
