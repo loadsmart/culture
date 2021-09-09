@@ -1,4 +1,4 @@
-### [Events at Loadsmart]
+### Events at Loadsmart
 
 Documentation on regularly occurring events and meetings
 
