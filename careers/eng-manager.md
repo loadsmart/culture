@@ -59,5 +59,5 @@ For a descriptive - and non-exhaustive - list of tasks performed by an Engineeri
 
 - Help Product Managers in defining their teams' OKRs
 - Plan quarterly roadmap, after discussing priorities, and given the technical implications of them (dependency with other systems, features, etc.)
-- Together with the Tech Lead, guarantee Product Specs are well written and properly stating the "what" and the "why" something is worth the team's time investing
+- Together with the Product Manager, guarantee Product Specs are well written and properly stating the "what" and the "why" something is worth the team's time investing
 - Foresee technical roadblocks that could potentially impact the backlog of their teams
