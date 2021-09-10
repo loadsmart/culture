@@ -1,6 +1,6 @@
 ---
 title: Tech Talks
-description: How tech talks work on loadsmart
+description: How tech talks work at Loadsmart
 ---
 
 Everyone is welcomed and encouraged to submit a talk! Whether you have been working as a senior engineer or intern, experienced or 1st-time speaker, we want to hear what you are excited about
