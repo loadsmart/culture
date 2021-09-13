@@ -10,7 +10,7 @@ If you are interviewing for an engineering position at Loadsmart, the steps belo
 1. [Screening interview](#screening-interview)
 2. [Coding exercise](#coding-exercise)
 3. [Systems Design interview](#systems-design-interview)
-4. [Team fit interview](#team-fit-interview)
+4. [Engineering Soft Skills interview](#engineering-soft-skills-interview)
 5. [Decision meeting](#decision-meeting)
 6. [Offer](#offer)
 
@@ -44,7 +44,7 @@ What do we want to assess?
 - Proposed design to support the requirements
 - If the proposed architecture addresses trade-offs and good practices
 
-## Team fit interview
+## Engineering Soft Skills interview
 At this step, most of the technical assessments are already done. Now is the time when you are interviewing with the team you are potentially going to be working with.
 
 In this interview, you will be discussing your interests, talking about some of your soft skills, the way you like or not to do things, and so on. It is also when the team leaders will be checking if you are the best fit for their team. And if that's not the case (maybe because they are looking for someone with a different set of skills), you could also be interviewing with leaders from other teams until we find the best team for you.
