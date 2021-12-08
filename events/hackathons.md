@@ -6,7 +6,7 @@ description: What are hackathons and how they happen at Loadsmart
 # Hackathons
 
 Hackathons are a great way to put innovative ideas into practice.
-These are presential events where we bring together engineers, product, designers, and operations to work and execute a project from scratch.
+These are either remote or in-person events where we bring together engineers, product, designers, and operations to work and execute a project from scratch.
 Several projects at Loadsmart were idealized in one of those events.
 
 Everyone can propose and pitch an idea, and it's up to the participants to choose where they best fit.
@@ -28,6 +28,6 @@ We've had so far more than 400 unique participants during 7 editions.
 ## Tips
 
 Use the opportunity of being at a Hackathon to work with people you don't usually work with on a daily basis.
-This will enrich your knowledge of how the whole company works and as a bonus create new friends.
+This will enrich your knowledge of how the whole company works and - as a bonus - you'll make new friends.
 
-Not only hack but enjoy the event at its most, learning, sharing, and having fun.
+Not only hack but enjoy the event at its most, by learning, sharing, and having fun.
