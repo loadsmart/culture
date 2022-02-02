@@ -19,7 +19,9 @@ description: An overview of the technical and the management tracks
 ### Management Track
 
 - Engineering Manager
+- Senior Engineering Manager
 - Director of Engineering
+- Senior Director of Engineering
 - VP of Engineering
 - CTO
 
