@@ -22,7 +22,7 @@ You may use this interview to discuss the moment you find yourself at your curre
 ## Coding exercise
 This may vary depending on the position you are applying to but in general, it consists of a problem that is given to you to be solved. These are programming tasks that go from logical exercises, to day-to-day problem solving tasks, to framework-specific questions.
 
-These are usually done via [HackerRank](https://www.hackerrank.com). However, there are positions that we have been using our own set of problems and for those, you should be receiving a problem description (plain text) where the solution would be done through a private GitHub repository under your own account.
+These are usually done via [HackerRank](https://www.hackerrank.com). However, there are positions that we have been using our own set of problems and for those, you should be receiving a problem description in plain text where the solution would be done through a private GitHub repository under your own account.
 
 ## Systems Design interview
 After finishing the [coding exercise](#coding-exercise), the review will happen either automatically (if done via HackerRank) or manually (if done via a GitHub repo). In case of a satisfactory solution, the next step is the Systems Design Interview.
