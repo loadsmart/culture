@@ -44,7 +44,7 @@ Great! Now you are at a point that you do feel comfortable with the code base, y
 
 - [Engineering Blog](https://github.com/loadsmart/blog)
 - [Engineering Twitter](https://twitter.com/LoadsmartEng)
-- [Reflektive (for Goals setting)](http://reflektive.com/app)
+- [Lattice (for goal setting)](https://loadsmart.latticehq.com/)
 - [More on Confluence](https://loadsmart.atlassian.net/wiki/spaces/HAN/overview)<!-- prettier-ignore-start -->
 
 <!-- prettier-ignore-start -->
