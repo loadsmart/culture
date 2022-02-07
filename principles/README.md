@@ -32,7 +32,7 @@ Unblock oneself; one has options.
 
 ### Communication
 
-Ensure stakeholders are aware of setbacks and progress.
+Ensure stakeholders are aware of setbacks and progress. See how we [communicate](../practices/communication.md#readme).
 
 ### Expectations
 
