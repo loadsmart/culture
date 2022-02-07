@@ -14,9 +14,9 @@ Add this information to your Slack profile. It will be available with a single c
 
 When sending a message, like in Slack, we usually try to be polite by not jumping right into the request. This is not a good practice and costs time. The [No Hello](https://nohello.net) website presents a better way to do it. Please take a look.
 <div align="center">
-  <img alt="No Hello" src="./no-hello.png" />
+  <img alt="No Hello" src="./no-hello.png" style="max-width: 600px; />
   <br/>
-  <i>by <a href="https://nohello.net">No Hello</a></i>
+  <i>Image by <a href="https://nohello.net">No Hello</a></i>
 </div>
 
 ### Slack Notifications
