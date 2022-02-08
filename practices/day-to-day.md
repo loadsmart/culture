@@ -9,7 +9,7 @@ and know when we are really done.
 ### Task Description
 
 Write a description for each task / sub-task.
-Explain the problem and define the scope of solution.
+Explain the problem and define the scope of the solution.
 It helps teammates understand what is to be worked on.
 
 ### Task Appetite

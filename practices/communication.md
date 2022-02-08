@@ -6,8 +6,8 @@ At Loadsmart, the engineering team works 100% remotely. We believe async communi
 
 ### Business Time Visibility
 
-There are people working from different time zones and we need to be aware of and respect it. For example, if we don't know your timezone or your business time, we don't know when you would be able to attend a meeting or to answer a message. Two tips here:
-You can set your business time using Google Calendar. With that, everybody will be able to see it when scheduling a meeting with you.
+People are working from different time zones, and we need to be aware of and respect it. For example, if we don't know your timezone or your business time, we don't know when you would be able to attend a meeting or answer a message. Two tips here:
+You can set your business time using Google Calendar. With that, everybody will see it when scheduling a meeting with you.
 Add this information to your Slack profile. It will be available with a single click on your Slack picture. We recommend this format `<job title> @ <squad/team/department> - Working hours: X AM - Y PM (<timezone>)`
 
 ### No Hello
@@ -21,7 +21,7 @@ When sending a message, like in Slack, we usually try to be polite by not jumpin
 
 ### Slack Notifications
 
-It is common and useful to have Slack installed on our phones. With this we got the notifications as well. They are very useful when we are working, but they can be very unhealthy. Receiving notifications when you are out of your business time, will prevent you from disconnecting and resting. Within some time it will cause a lot of stress. That's why we recommend setting Slack to send mobile notifications during your business hours or for really urgent channels only.
+It is common and useful to have Slack installed on our phones. With this, we got the notifications as well. They are very useful when we are working, but they can be very unhealthy. Receiving notifications when you are out of your business time will prevent you from disconnecting and resting. Within some time, it will cause a lot of stress. That's why we recommend setting Slack to send mobile notifications during your business hours or for really urgent channels only.
 
 
 ### Slack Status
@@ -36,12 +36,12 @@ We have many meetings to discuss ideas or proposals. Instead of scheduling a mee
 
 ### How to Solve a Fire
 
-It takes time to figure out how to solve a fire and there is always a lesson learning. This learning should be shared so that we save time in the future. We recommend, after solving a fire, to write a how to fix it. The next firefighters will thank you for that.
+It takes time to figure out how to solve a fire, and there is always a lesson learning. This learning should be shared so that we save time in the future. After solving a fire, we recommend writing a how to fix it. The next firefighters will thank you for that.
 
 
 ### Meetings Outcome
 
-With the company getting bigger and bigger, it's more likely that people won't be able to attend all the meetings they are invited to. Because of that, it's recommended to either record and/or take notes and share it after the meeting. Those who missed it can get up to date afterward. Even for recorded meetings, that is a good idea to summarize it into notes so people can save time avoiding watching the whole video. Also we recommend using the Meetings Notes feature available on Google Calendar.
+With the company getting bigger and bigger, it's more likely that people won't be able to attend all the meetings they are invited to. Because of that, it's recommended to either record and/or take notes and share them after the meeting. Those who missed it can get up to date afterward. Even for recorded meetings, that is a good idea to summarize it into notes so people can save time avoiding watching the whole video. Also, we recommend using the Meetings Notes feature available on Google Calendar.
 
 
 ### Emails
@@ -51,4 +51,4 @@ Urgent communications should not happen via email. With that being said, we do n
 
 ### Lock your Calendar
 
-Organize you calendar by locking some time for lunch or other regular breaks you have. Also lock it when you will be OOO. This will prevent you from receiving meeting invites when you cannot attend it. Company wide meetings may still happen in these times. It is up to you to organize your time according to your priorities, both personal and at the company.
+Organize your calendar by locking some time for lunch or other regular breaks you have. Also, lock it when you will be OOO. This will prevent you from receiving meeting invites when you cannot attend them. Company-wide meetings may still happen in these times. It is up to you to organize your time according to your priorities, both personal and at the company.

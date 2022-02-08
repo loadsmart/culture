@@ -15,7 +15,7 @@ as long as each PR results in working, tested, releasable software.
 Each pull request should be an [accretion](http://wordnetweb.princeton.edu/perl/webwn?s=accretion).
 It is a new layer on top of an existing foundation (previous PRs).
 If the foundation needs to be changed,
-consider having the refactoring as a separate PR from the new feature implementation.
+consider refactoring as a separate PR from the new feature implementation.
 
 ### Code Coverage
 
@@ -57,8 +57,8 @@ Code comments should only be added to answer a question that the code itself can
 
 ### Small Functions / Methods / Classes
 
-Write small functions, methods or classes.
-It makes them easier to read, to change and to test.
+Write small functions, methods, or classes.
+It makes them easier to read, to change, and to test.
 
 ### Function Breakdown
 
@@ -66,19 +66,19 @@ Break down large functions into smaller ones.
 
 ### Terminology
 
-Use meaningful names and concepts in variables, functions and classes.
+Use meaningful names and concepts in variables, functions, and classes.
 Domain-related terms help in understanding the code.
 
 ### Abstraction
 
 Raise the level of abstraction.
-If code is bloated and hard-to-change,
+If code is bloated and hard to change,
 it is probably missing a level of abstraction.
 
 ### Test-Drive
 
 Consider writing the test code before writing or changing the implementation code.
-Or, as at least, try thinking about the testing scenarios before implementing the code.
+Or, at least, try thinking about the testing scenarios before implementing the code.
 So that it is clear when the code changes have achieved the implementation goal.
 
 ### Simplicity
