@@ -28,6 +28,9 @@ It is common and useful to have Slack installed on our phones. With this, we got
 
 Slack is your front door. People will look for you there when they need to ask or tell something. It's important to make clear if you are available or not. For that, we can use the Slack Status. For example: Out of Office, In a Meeting, Internet Connection Unstable. Setting the integration between Google Calendar and Slack will update your status automatically.
 
+### Slack Threads
+
+Threads can be used to organize discussions in Slack. Multiple subjects can flood channels with messages. With threads, reply messages can be tied to their original message keeping readers notified with every new message and without distracting others in the channel that might not have an interest in that particular subject. 
 
 ### Collaborative Docs
 
