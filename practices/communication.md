@@ -1,3 +1,8 @@
+---
+title: Communication
+description: Best practices to have a clear communication
+---
+
 # Communication
 
 ## Async Communication

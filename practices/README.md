@@ -12,10 +12,10 @@ in order to achieve the engineering values.
 <!-- start_toc -->
 | Doc | Overview |
 |--|--|
-| [Day to Day](/practices/day-to-day.md#readme) | An overview of how do we organize our day-to-day work |
 | [Coding](/practices/coding.md#readme) | Good practices to deliver the best code as a team |
-| [Deployment](/practices/deployment.md#readme) | How to send the code to production |
 | [Communication](/practices/communication.md#readme) | Best practices to have a clear communication |
+| [Day to day](/practices/day-to-day.md#readme) | An overview of how do we organize our day-to-day work |
+| [Deployment (WIP)](/practices/deployment.md#readme) | Recommendations on how to push code to production |
 | [Working Groups](/practices/working-groups.md#readme) | How we work on cross-organizational issues |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
@@ -29,5 +29,3 @@ Some inspiring references for the practices in the above sessions:
 <!-- prettier-ignore-start -->
 <!-- start_toc -->
 
-<!-- end_toc -->
-<!-- prettier-ignore-end -->

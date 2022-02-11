@@ -6,6 +6,7 @@
     "husky": "^4.3.6",
     "jsonpointer": ">=5.0.0",
     "lint-staged": "^10.5.3",
+    "lodash.includes": "^4.3.0",
     "markdown-yaml-metadata-parser": "^2.1.2",
     "prettier": "^2.2.1",
     "semver-regex": ">=3.1.3",

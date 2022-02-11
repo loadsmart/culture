@@ -1,3 +1,8 @@
+---
+title: Day to day
+description: An overview of how do we organize our day-to-day work
+---
+
 ## Implementation Tasks
 
 ### Task Breakdown 

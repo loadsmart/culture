@@ -1,3 +1,8 @@
+---
+title: Coding
+description: Good practices to deliver the best code as a team
+---
+
 ## Pull Requests
 
 ### Small Pull Requests
