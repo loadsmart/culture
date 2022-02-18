@@ -9,7 +9,7 @@ description: Best practices to have a clear communication
 
 At Loadsmart, the engineering team works 100% remotely. We believe async communication is key for our day-to-day work.
 
-### Business Time Visibility
+### Working Hours Visibility
 
 People are working from different time zones, and we need to be aware of and respect it. For example, if we don't know your timezone or your working hours, we don't know when you would be able to attend a meeting or answer a message. Two tips here:
 You can set your working hours using Google Calendar. With that, everybody will see it when scheduling a meeting with you.
