@@ -1,40 +1,7 @@
 ---
-title: Base Practices
-description: Our base, foundational engineering practices
+title: Coding
+description: Good practices to deliver the best code as a team
 ---
-
-# Base Practices
-
-## Implementation Tasks
-
-### Task Breakdown 
-
-Break down the work into smaller and meaningful tasks.
-It helps us get started,
-and know when we are really done.
-
-### Task Description
-
-Write a description for each task / sub-task.
-Explain the problem and define the scope of solution.
-It helps teammates understand what is to be worked on.
-
-### Task Appetite
-
-Determine the appetite for each task.
-Make sure it is clear how long the task will take,
-and reduce the scope if time-boxing is necessary.
-
-### Acceptance Criteria
-
-Define acceptance criteria for each task.
-They are single statements that must be testable
-once the task is complete.
-
-### Task Update
-
-Update often the status of tasks / sub-tasks
-in order to be accountable to teammates and other stakeholders.
 
 ## Pull Requests
 
@@ -53,7 +20,7 @@ as long as each PR results in working, tested, releasable software.
 Each pull request should be an [accretion](http://wordnetweb.princeton.edu/perl/webwn?s=accretion).
 It is a new layer on top of an existing foundation (previous PRs).
 If the foundation needs to be changed,
-consider having the refactoring as a separate PR from the new feature implementation.
+consider refactoring as a separate PR from the new feature implementation.
 
 ### Code Coverage
 
@@ -95,8 +62,8 @@ Code comments should only be added to answer a question that the code itself can
 
 ### Small Functions / Methods / Classes
 
-Write small functions, methods or classes.
-It makes them easier to read, to change and to test.
+Write small functions, methods, or classes.
+It makes them easier to read, to change, and to test.
 
 ### Function Breakdown
 
@@ -104,19 +71,19 @@ Break down large functions into smaller ones.
 
 ### Terminology
 
-Use meaningful names and concepts in variables, functions and classes.
+Use meaningful names and concepts in variables, functions, and classes.
 Domain-related terms help in understanding the code.
 
 ### Abstraction
 
 Raise the level of abstraction.
-If code is bloated and hard-to-change,
+If code is bloated and hard to change,
 it is probably missing a level of abstraction.
 
 ### Test-Drive
 
 Consider writing the test code before writing or changing the implementation code.
-Or, as at least, try thinking about the testing scenarios before implementing the code.
+Or, at least, try thinking about the testing scenarios before implementing the code.
 So that it is clear when the code changes have achieved the implementation goal.
 
 ### Simplicity
@@ -211,21 +178,3 @@ Every engineer has read / write access to all repositories.
 ### Bus Factor
 
 [Bus factor](https://en.wikipedia.org/wiki/Bus_factor) should be >= 2, preferably greater.
-
-## Continuous Deployment
-
-### Leverage Automation
-
-Try to automate repetitive tasks [when it is worth it](https://xkcd.com/1205/).
-
-## References
-
-Some inspiring references for the practices above:
-- [Extreme Programming Explained](https://books.google.com.br/books/about/Extreme_Programming_Explained.html)
-- [The Pragmatic Programmer](https://www.google.com/books/edition/The_Pragmatic_Programmer/5wBQEp6ruIAC)
-- [Software Craftsmanship](https://www.amazon.com.br/Software-Craftsmanship-Imperative-Pete-McBreen/dp/0201733862)
-<!-- prettier-ignore-start -->
-<!-- start_toc -->
-
-<!-- end_toc -->
-<!-- prettier-ignore-end -->
