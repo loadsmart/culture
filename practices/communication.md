@@ -15,7 +15,7 @@ People are working from different time zones, and we need to be aware of and res
 
 Two tips here:
 
-📆 **You can set your working hours using Google Calendar.** With that, everybody will see it when scheduling a meeting with you. You only need to follow [these steps](https://github.com/loadsmart/rfp-backend/pull/1484).
+📆 **You can set your working hours using Google Calendar.** With that, everybody will see it when scheduling a meeting with you. You only need to follow [these steps](https://support.google.com/calendar/answer/7638168?hl=en#zippy=%2Csee-how-to-set-working-hours).
 
 👤 **Add this information to your Slack profile.** It will be available with a single click on your Slack picture. We recommend this format: 
 ```
