@@ -11,9 +11,16 @@ At Loadsmart, the engineering team works 100% remotely. We believe async communi
 
 ### Working Hours Visibility
 
-People are working from different time zones, and we need to be aware of and respect it. For example, if we don't know your timezone or your working hours, we don't know when you would be able to attend a meeting or answer a message. Two tips here:
-You can set your working hours using Google Calendar. With that, everybody will see it when scheduling a meeting with you.
-Add this information to your Slack profile. It will be available with a single click on your Slack picture. We recommend this format `<job title> @ <squad/team/department> - Working hours: X AM - Y PM (<timezone>)`
+People are working from different time zones, and we need to be aware of and respect it. For example, if we don't know your timezone or your working hours, we don't know when you would be able to attend a meeting or answer a message.
+
+Two tips here:
+
+📆 **You can set your working hours using Google Calendar.** With that, everybody will see it when scheduling a meeting with you. You only need to follow [these steps](https://support.google.com/calendar/answer/7638168?hl=en#zippy=%2Csee-how-to-set-working-hours).
+
+👤 **Add this information to your Slack profile.** It will be available with a single click on your Slack picture. We recommend this format: 
+```
+<job title> @ <squad/team/department> - Working hours: X AM - Y PM (<timezone>)
+```
 
 ### No Hello
 
