@@ -44,6 +44,8 @@ What do we want to assess?
 - Proposed design to support the requirements
 - If the proposed architecture addresses trade-offs and good practices
 
+For additional tips on the systems design interview, check this [blog post](https://engineering.loadsmart.com/blog/tips-to-succeed-at-a-systems-design-interview) written by [Luiz Rosa](https://github.com/luizguilhermefr).
+
 ## Engineering Soft Skills interview
 At this step, most of the technical assessments are already done. Now is the time when you are interviewing with the team you are potentially going to be working with.
 
