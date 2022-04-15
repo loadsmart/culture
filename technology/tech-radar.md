@@ -3,7 +3,7 @@ title: Loadsmart Tech Radar
 description: What tech we use and their state at Loadsmart
 ---
 
-# Tech Radar
+# [Tech Radar](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Floadsmart%2Fculture%2Fmain%2Ftechnology%2Floadsmart-tech-radar.csv)
 
 Loadsmart's Tech Radar is powered by Thoughtworks' open source [Build Your Own Radar](https://www.thoughtworks.com/radar/how-to-byor) tool. To learn more about the Tech Radar concept, visit [https://www.thoughtworks.com/radar](https://www.thoughtworks.com/radar).
 
