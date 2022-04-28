@@ -1,7 +1,7 @@
 # Practices
 
 Practices are specific actions,
-derived from the [Principles](principles),
+derived from the [Principles](/principles/README.md),
 that one should aim at performing daily
 in order to achieve the engineering values.
 
