@@ -3,11 +3,15 @@ title: Loadsmart Tech Radar
 description: What tech we use and their state at Loadsmart
 ---
 
-# [Tech Radar](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Floadsmart%2Fculture%2Fmain%2Ftechnology%2Floadsmart-tech-radar.csv)
+[tech-radar-link]: https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Floadsmart%2Fculture%2Fmain%2Ftechnology%2Floadsmart-tech-radar.csv
+
+# [Tech Radar][tech-radar-link]
+
+[![Tech Radar](./tech-radar-sample.png)](tech-radar-link)
 
 Loadsmart's Tech Radar is powered by Thoughtworks' open source [Build Your Own Radar](https://www.thoughtworks.com/radar/how-to-byor) tool. To learn more about the Tech Radar concept, visit [https://www.thoughtworks.com/radar](https://www.thoughtworks.com/radar).
 
-Do you know of a tech we use and want to include it to this radar? Edit the [loadsmart-tech-radar.csv](loadsmart-tech-radar.csv) file and visit [this page](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Floadsmart%2Fculture%2Fmain%2Ftechnology%2Floadsmart-tech-radar.csv).
+Do you know of a tech we use and want to include it to this radar? Edit the [loadsmart-tech-radar.csv](loadsmart-tech-radar.csv) file and visit [this page][tech-radar-link].
 
 If in doubt when adding a new entry, consider the explanation below taken from TW's website:
 
