@@ -11,7 +11,7 @@ description: What tech we use and their state at Loadsmart
     <a href="https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Floadsmart%2Fculture%2Fmain%2Ftechnology%2Floadsmart-tech-radar.csv">
         <img width="400px" src="./tech-radar-sample.png" />
         <br/>
-        <i>Sample image - click on radar to see full details</i>
+        <i>Click the image above to see Loadsmart's Tech Radar in full detail</i>
     </a>
 </p>
 
