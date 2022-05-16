@@ -25,5 +25,6 @@ Avoid branching open source projects because we create another thing to maintain
 | Doc | Overview |
 |--|--|
 | [Loadsmart Tech Radar](/technology/tech-radar.md#readme) | What tech we use and their state at Loadsmart |
+| [Loadsmart StackShare](/technology/stackshare.md#readme) | Our company profile on StackShare |
 <!-- end_toc -->
 <!-- prettier-ignore-end -->
