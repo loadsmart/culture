@@ -9,7 +9,7 @@ A Tech Lead is a Senior individual contributor who is willing to have a broader 
 
 Tech Lead is not a formal position neither on the Technical nor the Management tracks of the Career Path. Instead, it is a set of responsibilities that one has in order to amplify their impact within the team. It is a role.
 
-Due to the fact this role gives individual contributors the opportunity of possibly having their first experience with leadership, many engineers may find themselves still in the process of discovering what type of leadership their career is pointing towards to: pure technical or management. So, if previously agreed with the Engineering Manager, Tech Leads may have other engineers reporting to them. It is recommended that a Tech Lead does not have more than 4 direct reports, unless being a Manager is their end goal.
+Due to the fact this role gives individual contributors the opportunity of possibly having their first experience with leadership, many engineers may find themselves still in the process of discovering what type of leadership their career is pointing towards to: pure technical or management. So, if previously agreed with the Engineering Manager, Tech Leads may assume some managerial tasks from the team together with their technical duties or move out of the Tech Lead role and focus only on management tasks as an IC.
 
 Tech Leads represent their squad in Tech Lead meetings and are the default interface of their teams for cross-squad discussions.
 
