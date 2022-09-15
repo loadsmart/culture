@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: culture
+  description: How we work
+  annotations:
+    github.com/project-slug: loadsmart/culture
+  tags:
+    - typescript
+spec:
+  type: other
+  lifecycle: production
+  owner: <CODE-OWNER>
