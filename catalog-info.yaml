@@ -10,4 +10,4 @@ metadata:
 spec:
   type: other
   lifecycle: production
-  owner: <CODE-OWNER>
+  owner: all-teams
