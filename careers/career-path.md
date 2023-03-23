@@ -25,6 +25,3 @@ description: An overview of the technical and the management tracks
 - VP of Engineering
 - CTO
 
-
-For a descriptive list of each of the positions above, check [this spreadsheet](https://docs.google.com/spreadsheets/d/1CRUxWUZlke7Mw2lokbfH6RU1uAgNyFS6pAgqH8oYqYs/edit#gid=149467352).
-
