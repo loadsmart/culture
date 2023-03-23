@@ -18,6 +18,7 @@ description: An overview of the technical and the management tracks
 
 ### Management Track
 
+- Associate Engineering Manager
 - Engineering Manager
 - Senior Engineering Manager
 - Director of Engineering
