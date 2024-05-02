@@ -7,6 +7,7 @@ description: An overview of the technical and the management tracks
 
 ### Technical Track
 
+- Intern
 - Engineer I
 - Engineer II
 - Senior Engineer I
@@ -24,5 +25,6 @@ description: An overview of the technical and the management tracks
 - Director of Engineering
 - Senior Director of Engineering
 - VP of Engineering
+- Senior VP of Engineering
 - CTO
 
