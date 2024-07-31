@@ -5,14 +5,12 @@ description: An overview of the technical and the management tracks
 
 # Loadsmart's Career Path
 
-### Technical Track
+### Technical Track`
 
-- Engineer I
-- Engineer II
-- Senior Engineer I
-- Senior Engineer II
-- Staff Engineer I
-- Staff Engineer II
+- Intern
+- Engineer
+- Senior Engineer
+- Staff Engineer
 - Senior Staff Engineer
 - Principal Engineer
 
@@ -24,5 +22,6 @@ description: An overview of the technical and the management tracks
 - Director of Engineering
 - Senior Director of Engineering
 - VP of Engineering
+- Senior VP of Engineering
 - CTO
 
