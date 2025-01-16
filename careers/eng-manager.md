@@ -26,7 +26,7 @@ For a descriptive - and non-exhaustive - list of tasks performed by an Engineeri
 - Evaluate training courses, conferences, and any other form of resources to make people grow
 - Lead the efforts of helping the team [gel](https://www.macmillandictionary.com/us/dictionary/american/gel_2) better, while also guaranteeing individuals feel like they are part of a safe group
 - Provide opportunities for team members to grow in their careers, being available to guide them through your experiences
-- Effectively delegate tasks to ICs and/or Tech Leads - that were agreed upon - so that they can grow without being swamped
+- Effectively delegate tasks to ICs - that were agreed upon - so that they can grow without being swamped
 - Act to resolve conflicts in the team that the team members themselves could not resolve
 - Rethink team structure if the team has grown too big
 
@@ -47,7 +47,7 @@ For a descriptive - and non-exhaustive - list of tasks performed by an Engineeri
 - Be accountable for the OKRs your teams are pursuing and educate team members to also keep their eyes on them
 - Pre-align with stakeholders what your teams are delivering each quarter, sharing the progress whenever something valuable is delivered
 
-## Process Execution (shared with Tech Leads)
+## Process Execution
 
 - Have visibility of what team members are working on now (sprint) and what will they work on next (prioritized backlog)
 - Be on top of any blockers that are preventing the team from delivering results, and work on unblocking them
