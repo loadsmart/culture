@@ -18,7 +18,7 @@ Product Managers and Engineering Managers. One understands the problems our cust
 Product Managers and Engineering Managers. See above.
 
 ### Who's responsible for interfacing with other squads?
-For technical matters, Project Leaders and Engineering Managers. For anything else, Engineering Managers. Alignment is expected between peers.
+For technical matters, Project Leaders and Engineering Managers. For anything else, Engineering Managers. Alignment and communication is expected between all peers, independently of their roles.
 
 ### Who's responsible for leading the agile ceremonies?
 Engineering Managers do. But Project Leaders should own the parts of what touches their projects.
