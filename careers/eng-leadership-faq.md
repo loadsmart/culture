@@ -24,7 +24,7 @@ For technical matters, Project Leaders and Engineering Managers. For anything el
 Engineering Managers do. But Project Leaders should own the parts of what touches their projects.
 
 ### Who's responsible for the quality of the code delivered by the team?
-Every engineer in the team is responsible. But ultimately, the Project Lead and Engineering Managers is accountable.
+Every engineer in the team is responsible. But ultimately, the Project Lead and Engineering Managers are accountable.
 
 ### Do Engineering Managers code?
 It is not expected. However, if availability permits, EMs can also work on small CIs, tech debts and non-critical bugs. EMs **cannot** be a delivery blocker. In general, Engineering Managers' time for coding varies from 0% to 30% of their time.
