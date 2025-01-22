@@ -30,4 +30,4 @@ Every engineer in the team is responsible. But ultimately, the Project Lead and 
 It is not expected. However, if availability permits, EMs can also work on small CIs, tech debts and non-critical bugs. EMs **cannot** be a delivery blocker. In general, Engineering Managers' time for coding varies from 0% to 30% of their time.
 
 ### How many direct reports should an engineering manager have?
-3 to 8
+The team size may vary depending on the context.
