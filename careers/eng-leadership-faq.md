@@ -6,10 +6,10 @@ description: Answers on common questions about the leadership roles
 # Engineering Leadership FAQ
 
 ### Who's responsible for the IC's career growth?
-Engineering Managers.
+Career growth is a shared responsibility. Individual Contributors (ICs) are primarily responsible for taking ownership of their growth by setting goals, seeking opportunities, and actively pursuing development. Engineering Managers (EMs) are accountable for providing guidance, support, and a framework that enables ICs to achieve their career aspirations.
 
 ### Who's responsible for guaranteeing projects are on-time?
-Engineering Managers. 
+Ensuring projects are delivered on time is a shared responsibility within the team. The Engineering Manager (EM) is accountable for creating an environment where timelines are realistic, risks are managed, and the team has the necessary resources and alignment. Individual team members contribute by effectively managing their deliverables, communicating progress, and addressing challenges proactively.
 
 ### Who's responsible for deciding what is moved from the backlog to the sprint?
 Product Managers and Engineering Managers. One understands the problems our customers have while the other, the feasibility. 
